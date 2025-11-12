@@ -7,7 +7,7 @@ This project explores laptop sales data to uncover pricing trends, brand perform
 ## 📘 Overview
 - **Objective:** To analyze sales data and identify factors affecting laptop pricing and performance.  
 - **Dataset:** `laptop_sales_dataset.csv`  
-- **Deliverables:** Interactive Jupyter Notebook (`uriabada_Assignment-1.ipynb`) and an HTML report (`uriabada_Assignment-1.html`).
+- **Deliverables:** Interactive Jupyter Notebook (`laptop_sales-1.ipynb`) and an HTML report (`laptop_sales-1.html`).
 
 ---
 
