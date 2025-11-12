@@ -1,0 +1,1001 @@
+model_id,brand,processor_type,ram_gb,storage_gb,storage_type,price_usd,screen_size_inches,graphics_card,os,release_month,marketing_spend_usd,units_sold_first_month,top_seller
+M0000,Asus,Ryzen 3,32,1024,SSD,1017.49,17.4,Integrated,Windows,Apr,5058.87,313,1
+M0001,Acer,Ryzen 3,4,256,HDD,984.83,19,Integrated,Linux,Dec,2683.57,214,1
+M0002,Lenovo,Ryzen 3,8,128,HDD,715.47,16.6,Dedicated,macOS,Oct,4058.8,275,1
+M0003,Acer,Ryzen 3,32,128,HDD,935.32,13.7,Dedicated,Windows,Jun,7066.03,426,1
+M0004,Acer,Ryzen 5,4,128,HDD,692.81,18.6,Integrated,macOS,Sep,2939.57,245,2
+M0005,HP,Ryzen 5,4,256,SSD,908,15.6,Integrated,Linux,Feb,4583.43,278,1
+M0006,Lenovo,i5,16,1024,HDD,540.18,14.3,Integrated,Linux,Feb,5585.17,358,1
+M0007,Lenovo,i3,16,1024,SSD,555.56,14,Integrated,Windows,Jul,3154.57,265,1
+M0008,Lenovo,Ryzen 3,32,1024,HDD,1011.64,16.9,Integrated,macOS,Feb,7192.87,383,1
+M0009,Acer,i5,8,512,HDD,987.51,16,Dedicated,macOS,Feb,6387.94,307,1
+M0010,Asus,i3,4,512,HDD,926.72,16.1,Dedicated,macOS,Apr,9019.09,435,1
+M0011,Lenovo,Ryzen 7,32,512,HDD,817.59,17.5,Dedicated,macOS,Sep,6562.92,349,1
+M0012,Acer,i7,4,256,SSD,321.75,14.4,Dedicated,Windows,Aug,3078.22,239,2
+M0013,HP,Ryzen 5,4,512,SSD,785.02,17.6,Integrated,Linux,Feb,6060.74,383,1
+M0014,Asus,Ryzen 7,8,256,SSD,890.84,14.8,Dedicated,Windows,Aug,6976.04,,1
+M0015,HP,i3,8,1024,SSD,693.05,18.8,Integrated,macOS,Apr,7078.96,360,1
+M0016,Asus,Ryzen 7,32,512,HDD,657.5,16.5,Integrated,macOS,Feb,3446.32,270,1
+M0017,Acer,i7,8,512,SSD,1088.88,14.2,Integrated,Linux,Nov,3207.32,272,1
+M0018,Dell,i3,8,128,SSD,787.94,12.6,Integrated,macOS,Oct,2720.73,256,1
+M0019,Asus,Ryzen 7,32,256,HDD,890.96,16.8,Integrated,Windows,Jul,8209.46,456,1
+M0020,HP,Ryzen 5,8,1024,HDD,954.83,15,Integrated,Windows,Jun,6245.76,334,2
+M0021,Acer,Ryzen 5,16,128,HDD,599.71,15.4,Integrated,Linux,Oct,3357.56,282,1
+M0022,Asus,i5,4,128,HDD,838.64,16.7,Dedicated,Windows,May,5254.38,295,1
+M0023,Dell,Ryzen 7,4,1024,SSD,1063.93,17.1,Integrated,Windows,Nov,4752.63,259,1
+M0024,Dell,Ryzen 3,4,128,SSD,1163.84,17.4,Dedicated,Windows,Jan,3054.84,,1
+M0025,Lenovo,Ryzen 7,4,256,HDD,807.99,13.8,Dedicated,Windows,Feb,5072.37,292,1
+M0026,Lenovo,i3,32,256,HDD,752.41,17.7,Integrated,macOS,Aug,5381.39,370,1
+M0027,HP,i3,4,512,HDD,853.8,14.7,Integrated,Windows,Jan,8862.51,404,1
+M0028,Asus,Ryzen 7,4,128,SSD,848.73,12.2,Dedicated,Linux,Mar,3688.62,260,1
+M0029,Asus,i7,4,512,SSD,1077.35,13.8,Dedicated,Linux,Feb,1581.2,183,1
+M0030,Lenovo,Ryzen 5,4,128,HDD,600.72,15.9,Dedicated,Windows,May,2902.09,231,1
+M0031,Asus,i3,16,256,HDD,744.03,14.1,Dedicated,Linux,Apr,3214.71,264,1
+M0032,Asus,Ryzen 5,4,256,SSD,576.57,15.5,Integrated,Windows,Jul,4146.15,330,1
+M0033,Dell,i3,16,256,HDD,597.58,16.1,Integrated,Linux,May,2906.99,273,1
+M0034,Lenovo,i5,32,128,HDD,875.31,15.3,Integrated,Linux,Aug,6644.24,447,1
+M0035,Acer,Ryzen 3,8,256,SSD,961.97,14.9,Dedicated,Windows,Apr,2767.93,229,1
+M0036,Lenovo,i3,4,128,HDD,670.12,13.7,Integrated,Windows,Dec,5040.04,289,1
+M0037,Acer,Ryzen 5,8,512,SSD,954.42,15.6,Dedicated,macOS,Jun,9000.38,395,1
+M0038,Dell,i5,8,128,HDD,1022.32,12.5,Integrated,Windows,Apr,6107.14,360,1
+M0039,HP,i3,32,512,HDD,1186.94,14.6,Dedicated,Windows,Feb,5901.51,349,1
+M0040,Asus,i7,8,128,SSD,813.95,14.2,Integrated,macOS,Jan,8714.63,447,1
+M0041,Dell,Ryzen 3,16,512,SSD,672.05,15.2,Integrated,Windows,Jan,7491.3,372,1
+M0042,Asus,i3,8,256,HDD,599.51,15.3,Dedicated,Windows,Aug,6130.25,355,1
+M0043,HP,i5,8,512,SSD,579.64,17,Dedicated,macOS,Apr,4378.55,253,1
+M0044,HP,i7,8,256,HDD,1049.96,18,Dedicated,Windows,May,4954.62,284,1
+M0045,Dell,Ryzen 7,4,256,HDD,496.98,13.9,Dedicated,Windows,Nov,4857.39,294,1
+M0046,HP,i5,4,512,SSD,1043.55,18.6,Dedicated,macOS,Aug,4197.15,251,1
+M0047,Acer,i5,16,128,HDD,626.31,14.4,Integrated,macOS,Dec,5424.07,328,1
+M0048,HP,i7,16,128,HDD,662.96,15.9,Dedicated,Linux,Jul,5701.5,336,1
+M0049,Asus,i5,4,1024,SSD,769.69,16.4,Integrated,Windows,Aug,2510.74,234,1
+M0050,Asus,i7,16,128,SSD,659.27,19.3,Integrated,Linux,Aug,8264.08,375,2
+M0051,Asus,i3,4,1024,HDD,986.4,14.8,Integrated,Linux,Jun,5819.6,301,2
+M0052,Asus,i7,32,128,SSD,1162.67,12.9,Integrated,macOS,Oct,4474.43,350,2
+M0053,Acer,i7,8,128,SSD,668.51,17.8,Integrated,Windows,Feb,5442.35,327,2
+M0054,Lenovo,Ryzen 3,8,256,SSD,713.55,14.3,Dedicated,Windows,Jun,6860.74,382,2
+M0055,Dell,i7,16,1024,SSD,767.34,15.1,Dedicated,macOS,Jan,2066.63,243,2
+M0056,Asus,i7,4,128,HDD,908.21,13.9,Integrated,Linux,Jan,4789.88,261,2
+M0057,HP,Ryzen 7,4,1024,HDD,769.3,15.1,Integrated,macOS,Nov,2628.29,234,2
+M0058,Asus,i3,16,256,HDD,1077.45,14.3,Dedicated,Windows,Mar,10314.01,471,2
+M0059,HP,Ryzen 3,4,256,SSD,1029.32,16.6,Dedicated,macOS,Mar,5276.37,341,2
+M0060,HP,Ryzen 7,32,1024,SSD,562.91,15.7,Integrated,Windows,Nov,2644.51,298,2
+M0061,Asus,Ryzen 5,8,256,SSD,904.19,14.6,Dedicated,Linux,May,12198.93,524,2
+M0062,Acer,i3,16,512,SSD,1104.07,17.1,Dedicated,Windows,Jan,3927.96,291,2
+M0063,HP,i3,16,512,SSD,701.04,16,Dedicated,Linux,Oct,4581.84,314,2
+M0064,HP,Ryzen 5,4,256,SSD,741.15,12.8,Integrated,Linux,Jun,4726.4,293,2
+M0065,Asus,i7,16,512,SSD,694.39,17,Dedicated,Windows,Jul,3304.09,261,2
+M0066,HP,Ryzen 7,32,128,HDD,698.58,15.9,Integrated,Windows,Oct,5494.7,375,2
+M0067,HP,i5,4,1024,HDD,466.31,17.7,Integrated,Linux,Dec,578.52,184,2
+M0068,Asus,Ryzen 3,4,128,SSD,534.34,15.8,Integrated,macOS,Nov,7171.8,383,1
+M0069,Asus,i5,4,1024,SSD,815.49,14.4,Integrated,Windows,Mar,2744.39,242,1
+M0070,Dell,Ryzen 5,4,256,SSD,1102.72,15.3,Integrated,Linux,Apr,4169.36,291,1
+M0071,Acer,i3,32,128,HDD,677.33,16.8,Dedicated,Linux,Oct,6503.04,418,2
+M0072,Acer,i3,4,256,HDD,671.45,14.4,Integrated,macOS,Nov,4591.08,294,1
+M0073,HP,Ryzen 3,16,256,SSD,1140.3,14.9,Integrated,Windows,Oct,4672.9,276,1
+M0074,Acer,i3,32,1024,SSD,578.35,15.3,Integrated,Linux,Dec,2975.85,268,1
+M0075,HP,i3,8,1024,HDD,467.75,13.9,Dedicated,macOS,Oct,9191.3,427,1
+M0076,Dell,Ryzen 3,8,1024,HDD,634.3,14.5,Dedicated,Linux,Oct,6062.96,336,1
+M0077,Asus,Ryzen 7,16,128,HDD,667.44,15.9,Dedicated,Windows,Oct,2834.43,281,1
+M0078,Asus,Ryzen 7,16,512,HDD,450.51,17.4,Dedicated,macOS,Mar,5356.36,278,1
+M0079,Asus,Ryzen 3,32,1024,SSD,774.39,16.1,Dedicated,Linux,Jan,2693.06,258,1
+M0080,Acer,Ryzen 5,8,1024,HDD,989.69,15.5,Dedicated,macOS,Aug,8444.83,395,1
+M0081,Dell,i3,8,128,HDD,542.81,14.4,Dedicated,Windows,Oct,5399.28,297,1
+M0082,Acer,i3,8,1024,SSD,817.52,17.2,Integrated,macOS,Oct,3048.91,225,1
+M0083,Acer,Ryzen 5,8,128,HDD,879.19,16.3,Integrated,Windows,Feb,6395.18,330,1
+M0084,Dell,Ryzen 7,8,256,HDD,783.32,14.5,Dedicated,Linux,Jan,4443.85,264,1
+M0085,Dell,i7,4,1024,HDD,837.14,16.9,Integrated,Windows,Aug,2423.54,198,1
+M0086,Dell,i7,16,1024,SSD,839.47,16.4,Integrated,Linux,Jul,5762.09,365,1
+M0087,Dell,i7,4,256,HDD,637.45,14.4,Dedicated,Linux,Jul,5705.68,328,1
+M0088,Asus,Ryzen 7,8,256,SSD,1099.72,15.4,Integrated,Windows,Apr,7275.47,377,1
+M0089,Lenovo,Ryzen 7,32,256,SSD,1049.55,14.9,Integrated,Linux,Nov,5129.01,346,1
+M0090,Lenovo,Ryzen 5,32,1024,HDD,1037.98,19.6,Dedicated,macOS,Sep,5214.12,369,1
+M0091,Dell,i3,8,512,HDD,1002.74,16.4,Integrated,Linux,Jun,5320.27,322,1
+M0092,Lenovo,Ryzen 5,8,512,HDD,485,15.9,Dedicated,Windows,Feb,8190.57,413,1
+M0093,Lenovo,Ryzen 5,32,512,HDD,985.21,16.3,Dedicated,macOS,Jan,4379.85,312,1
+M0094,Dell,Ryzen 7,4,1024,SSD,931.12,17.7,Integrated,macOS,Jan,5938.91,308,1
+M0095,Lenovo,i7,4,256,HDD,492.7,15.5,Integrated,Linux,Sep,6233.49,356,1
+M0096,Acer,i5,8,1024,HDD,757.02,14.7,Integrated,Linux,Apr,5699.55,311,1
+M0097,HP,i3,4,256,HDD,855.36,16.9,Dedicated,Windows,May,4304.19,244,1
+M0098,HP,Ryzen 7,32,1024,SSD,1132.86,15.3,Dedicated,macOS,Mar,5241.21,337,1
+M0099,Dell,i7,4,1024,HDD,944.94,14,Dedicated,Windows,Apr,,314,1
+M0100,Asus,i5,8,256,HDD,627.09,13.7,Integrated,Linux,Dec,8918.42,410,1
+M0101,Dell,i5,32,512,SSD,1139.08,17.9,Integrated,macOS,Aug,4084.47,320,1
+M0102,Asus,Ryzen 7,4,256,SSD,808.76,15.8,Dedicated,Windows,Apr,3174.84,224,1
+M0103,HP,Ryzen 3,16,128,HDD,748.83,14.7,Integrated,Windows,Sep,4987.6,331,1
+M0104,Dell,i3,32,128,HDD,734.58,15.2,Integrated,Windows,Sep,4846.6,355,1
+M0105,Acer,i5,32,256,HDD,475.29,16.8,Dedicated,Windows,Jun,5393.69,336,1
+M0106,Lenovo,Ryzen 7,16,1024,HDD,778.05,15.2,Dedicated,Windows,Feb,4085.11,294,1
+M0107,Asus,Ryzen 7,16,128,HDD,899.5,13.4,Integrated,macOS,Dec,5220.75,286,2
+M0108,Lenovo,i7,32,128,SSD,722.92,16.1,Dedicated,Windows,Oct,5259.21,346,1
+M0109,Lenovo,Ryzen 3,16,1024,SSD,884.09,17.4,Integrated,macOS,Nov,6811.98,368,1
+M0110,Dell,i3,8,1024,HDD,627.12,17.3,Dedicated,Windows,Jul,5186.01,345,1
+M0111,Lenovo,Ryzen 5,8,512,HDD,771.81,14.8,Dedicated,Linux,Sep,5204.95,313,1
+M0112,Acer,i7,8,1024,SSD,863.31,17.5,Dedicated,Linux,Jun,6032.69,314,1
+M0113,Lenovo,i5,32,256,HDD,837.93,15.9,Integrated,Windows,Mar,6735.31,392,1
+M0114,Dell,i5,16,256,HDD,478.91,17.5,Integrated,Linux,Jul,3032.65,281,1
+M0115,Acer,i7,16,512,HDD,712.2,16.5,Dedicated,macOS,May,2495.36,227,1
+M0116,HP,Ryzen 7,4,128,HDD,1135.49,13.3,Dedicated,Windows,Jan,8390.96,408,1
+M0117,Lenovo,i5,4,128,HDD,701.51,18.2,Dedicated,macOS,Mar,6408.15,325,1
+M0118,Dell,Ryzen 3,16,1024,SSD,803.16,15.7,Integrated,Windows,May,4561.23,284,1
+M0119,HP,i3,16,256,HDD,782.65,16.5,Dedicated,Linux,Jul,5039.4,307,1
+M0120,HP,Ryzen 3,16,128,HDD,1113.65,13.6,Dedicated,macOS,Mar,4214.88,253,1
+M0121,Asus,i5,32,512,HDD,1058.07,16.4,Dedicated,Linux,Jun,5422.56,312,1
+M0122,Acer,Ryzen 5,16,512,SSD,961.51,17.3,Dedicated,Linux,May,3056.33,252,1
+M0123,Lenovo,i3,4,256,SSD,605.35,18.5,Integrated,Windows,Jan,6680.33,344,1
+M0124,Dell,i3,32,512,SSD,871.84,17.7,Integrated,macOS,Oct,5350.91,362,1
+M0125,Asus,i7,16,512,SSD,913.59,16.4,Dedicated,Linux,Jun,5423.25,324,1
+M0126,Acer,i7,4,256,HDD,660.28,13.3,Integrated,Windows,Aug,3212.12,287,1
+M0127,Asus,Ryzen 5,32,1024,SSD,625.9,15.8,Integrated,Windows,Jan,6048.53,386,1
+M0128,Acer,Ryzen 7,16,1024,HDD,1141,14.7,Integrated,Windows,Feb,3258.06,229,1
+M0129,Acer,i3,16,512,HDD,739.84,16,Dedicated,Linux,Apr,3615.7,253,1
+M0130,Lenovo,Ryzen 5,16,1024,SSD,1123,13.8,Integrated,Windows,Dec,5175.24,314,1
+M0131,Acer,i7,32,1024,SSD,999.42,15.3,Integrated,macOS,Feb,10014.66,485,1
+M0132,Asus,i7,4,512,SSD,881.58,14.8,Integrated,macOS,Nov,5342.93,276,1
+M0133,Acer,i3,4,1024,SSD,890.51,14.8,Dedicated,Linux,Sep,-137.6,134,1
+M0134,Lenovo,Ryzen 3,8,512,SSD,519.92,14.8,Dedicated,macOS,Oct,3715,266,1
+M0135,Lenovo,i5,16,128,HDD,841.35,15.4,Integrated,Windows,Aug,6367.46,388,1
+M0136,Asus,i7,8,256,SSD,1083.4,16,Integrated,Linux,Aug,2743.08,208,1
+M0137,HP,Ryzen 7,8,256,SSD,936.27,11.9,Dedicated,Windows,Apr,6662.2,338,1
+M0138,HP,Ryzen 7,4,1024,SSD,830.87,12,Dedicated,Linux,May,5317.64,332,1
+M0139,Acer,i7,32,1024,HDD,1142.39,15.1,Integrated,Linux,Apr,6982.65,407,1
+M0140,Dell,Ryzen 3,32,1024,SSD,762.99,15.3,Integrated,Windows,Sep,3882.29,296,1
+M0141,Acer,Ryzen 3,4,256,HDD,676.09,15.9,Dedicated,macOS,Feb,3726.43,241,1
+M0142,Asus,Ryzen 5,32,128,SSD,830.77,14.5,Dedicated,macOS,Nov,6129.97,357,1
+M0143,Asus,Ryzen 7,8,128,SSD,953.29,15.6,Integrated,Linux,Aug,4984.94,298,1
+M0144,Asus,Ryzen 5,16,256,HDD,456.44,15.8,Dedicated,Windows,Feb,4863.95,339,1
+M0145,Asus,Ryzen 7,4,128,SSD,856.97,14.5,Integrated,Windows,Jan,8137.94,417,1
+M0146,Asus,i5,16,256,HDD,962.07,17.1,Integrated,Linux,Oct,6208.28,319,2
+M0147,Lenovo,i5,32,128,HDD,746.07,15.9,Integrated,macOS,Mar,1020.15,247,1
+M0148,HP,i3,16,512,HDD,1021.39,16.4,Dedicated,Windows,Sep,6598.14,362,1
+M0149,Asus,Ryzen 5,32,512,SSD,928.24,15.7,Integrated,macOS,Dec,6397.94,382,1
+M0150,Dell,i7,32,256,SSD,1228.28,18.8,Integrated,macOS,Mar,7369.82,402,1
+M0151,Dell,Ryzen 5,8,128,SSD,649.88,16.5,Dedicated,Linux,Sep,3120.6,208,1
+M0152,Dell,i7,32,1024,HDD,966.14,14.9,Dedicated,Linux,Jul,5649.61,376,1
+M0153,Dell,Ryzen 3,8,128,SSD,596.54,16.8,Integrated,macOS,Oct,5223.26,284,1
+M0154,Lenovo,Ryzen 5,8,512,HDD,476.93,13.1,Integrated,Windows,Jan,3084.74,234,1
+M0155,Dell,Ryzen 3,8,512,SSD,392.89,15.8,Dedicated,Windows,Oct,6893.53,373,1
+M0156,Asus,i5,4,128,HDD,907.66,16.1,Dedicated,Linux,May,4516.91,239,1
+M0157,Acer,i5,4,128,HDD,836.85,15.8,Dedicated,macOS,Sep,7305.46,334,1
+M0158,Dell,i3,32,1024,HDD,704.19,15.1,Integrated,Windows,Dec,3514.28,329,1
+M0159,Lenovo,Ryzen 5,8,1024,SSD,445.3,14.1,Integrated,Windows,Mar,2078.83,221,1
+M0160,Lenovo,Ryzen 3,4,128,HDD,661.92,14.4,Integrated,Linux,Sep,4514.87,266,1
+M0161,Dell,i7,8,128,HDD,800.82,15.8,Dedicated,macOS,May,5463.83,316,1
+M0162,Acer,i5,16,128,HDD,958.63,13.9,Integrated,Windows,Sep,3931.61,294,2
+M0163,Dell,i5,16,128,HDD,796.69,18.3,Dedicated,Linux,Oct,-1128.91,154,1
+M0164,Lenovo,i7,16,256,HDD,850.41,11.6,Integrated,Windows,Jun,5767.3,315,1
+M0165,HP,Ryzen 3,32,128,HDD,724.77,15.1,Dedicated,Windows,Sep,5757.96,351,1
+M0166,Asus,Ryzen 3,8,1024,SSD,1149.84,15.8,Integrated,Windows,Jul,6374.33,346,1
+M0167,Lenovo,Ryzen 5,16,512,SSD,596.35,16.4,Integrated,Linux,Jul,4239.02,310,1
+M0168,Dell,Ryzen 5,4,256,HDD,660.15,14.2,Dedicated,macOS,Aug,4129.9,241,1
+M0169,Asus,Ryzen 7,16,128,SSD,701.53,17.3,Dedicated,Linux,Jul,7880.64,384,1
+M0170,Dell,Ryzen 7,16,512,SSD,908.54,13.5,Integrated,macOS,Dec,1849.19,215,1
+M0171,Dell,i3,16,256,HDD,592.23,14.8,Dedicated,Windows,Sep,4505.76,305,1
+M0172,HP,i5,32,512,HDD,827.14,16.5,Dedicated,macOS,Nov,5284.6,357,1
+M0173,Asus,Ryzen 5,4,128,HDD,832.98,17.2,Integrated,Windows,Sep,6212.04,300,1
+M0174,Asus,Ryzen 3,8,128,SSD,661.13,13.5,Dedicated,Windows,Jun,5339.53,313,1
+M0175,HP,i7,4,1024,HDD,866,19.6,Integrated,Linux,Jul,3156.01,221,2
+M0176,Lenovo,Ryzen 3,8,128,SSD,598.44,14.3,Integrated,Windows,Feb,7335.23,350,1
+M0177,Dell,i5,32,128,HDD,576.59,13.6,Dedicated,Linux,Sep,5003.81,352,1
+M0178,Acer,Ryzen 7,32,256,SSD,819.92,16.4,Dedicated,macOS,Dec,1663.99,245,1
+M0179,Dell,Ryzen 3,32,1024,HDD,468.05,15.1,Integrated,macOS,Jan,5418.35,383,1
+M0180,Dell,i3,32,256,HDD,371.04,14.9,Integrated,Windows,Jan,5950.55,367,1
+M0181,Lenovo,i5,8,512,SSD,906.57,16.5,Integrated,Linux,Mar,8921.49,420,1
+M0182,Dell,Ryzen 7,16,128,SSD,1009.79,13.3,Integrated,Windows,Dec,5817.5,304,1
+M0183,HP,i7,8,512,SSD,706.64,13,Integrated,Linux,Jun,2035.95,207,1
+M0184,HP,Ryzen 7,4,256,SSD,666.39,14.7,Integrated,Linux,May,2106.2,217,1
+M0185,Asus,i3,32,128,SSD,1001.11,17.2,Dedicated,Linux,Feb,7517.42,430,1
+M0186,Acer,i5,32,128,SSD,570.89,14.8,Dedicated,macOS,Sep,3394.39,315,1
+M0187,Dell,i7,4,256,HDD,527.33,18,Dedicated,Linux,Oct,1900.84,220,1
+M0188,Dell,i3,8,256,SSD,941.53,17.4,Integrated,macOS,Apr,7001.02,348,1
+M0189,Lenovo,Ryzen 7,16,256,HDD,801.81,16,Dedicated,Linux,Apr,4048.53,297,1
+M0190,HP,i3,16,256,HDD,1012.98,16.1,Integrated,macOS,May,6894.03,405,1
+M0191,Acer,i5,4,256,SSD,371.95,16,Integrated,macOS,Aug,3170.56,236,1
+M0192,Asus,Ryzen 5,16,128,HDD,519.87,15.8,Dedicated,macOS,Oct,7947.62,437,1
+M0193,HP,i3,8,256,SSD,802.87,15.1,Integrated,Windows,Apr,6744.13,369,1
+M0194,Asus,i3,8,128,SSD,883.53,15.2,Integrated,Linux,May,3554.63,249,1
+M0195,Lenovo,Ryzen 7,4,128,HDD,969.4,14,Integrated,Windows,Dec,1679.22,185,1
+M0196,Lenovo,Ryzen 7,8,256,HDD,834.96,12.3,Integrated,Linux,Apr,9610.33,439,1
+M0197,Dell,i7,32,256,SSD,832.93,17.3,Integrated,Linux,Jun,4579.58,351,1
+M0198,Acer,Ryzen 7,4,1024,SSD,722.12,15.8,Integrated,Windows,Dec,3474.54,255,1
+M0199,Asus,Ryzen 3,8,128,HDD,1118.18,15.6,Dedicated,macOS,Mar,7772.62,367,1
+M0200,HP,i5,4,256,HDD,579.4,16.2,Integrated,Linux,Aug,6891.52,311,1
+M0201,Lenovo,i5,16,256,HDD,871.8,14.4,Integrated,macOS,Jun,7365.59,398,1
+M0202,Dell,Ryzen 5,8,256,HDD,602.44,14.1,Integrated,Windows,Oct,4802.98,259,1
+M0203,Dell,Ryzen 5,32,1024,SSD,906.96,15.2,Integrated,macOS,May,8762.11,431,1
+M0204,Asus,i5,8,1024,SSD,592.6,17.7,Dedicated,Linux,Feb,2378.76,217,1
+M0205,Lenovo,Ryzen 5,4,512,SSD,948.76,13.8,Dedicated,Linux,Oct,3895.9,231,1
+M0206,Acer,i7,4,128,SSD,822.42,11.7,Integrated,Linux,Oct,5779.76,321,1
+M0207,Lenovo,Ryzen 7,8,512,HDD,1148.93,14.8,Integrated,Windows,Jul,7336.22,357,1
+M0208,Asus,i5,32,256,HDD,743.8,17.3,Integrated,Linux,Feb,6322.32,404,1
+M0209,Asus,Ryzen 5,32,1024,SSD,884.99,13,Dedicated,Windows,Jan,4834.27,309,1
+M0210,Lenovo,i5,32,1024,SSD,644.07,13.8,Dedicated,macOS,Jul,4049.7,309,1
+M0211,Asus,Ryzen 3,4,512,SSD,742.42,16,Dedicated,Linux,May,7347.02,363,1
+M0212,Lenovo,i3,8,1024,SSD,821.15,19.5,Dedicated,Linux,Jan,6528.79,346,1
+M0213,HP,Ryzen 7,16,256,SSD,494.56,13.6,Integrated,Linux,Apr,3250.95,283,1
+M0214,Lenovo,i5,4,1024,SSD,516.48,13.5,Dedicated,macOS,Dec,3191.46,225,1
+M0215,Lenovo,i3,32,512,SSD,919.97,16.1,Dedicated,Linux,Apr,3909.02,303,1
+M0216,Asus,Ryzen 5,8,256,SSD,770.78,17.4,Integrated,Windows,Oct,3652.48,270,1
+M0217,Asus,i3,32,512,SSD,681.41,14.7,Integrated,macOS,Jul,7059.68,368,1
+M0218,Dell,Ryzen 7,16,1024,HDD,652.6,13.2,Dedicated,macOS,Sep,5871.46,352,1
+M0219,Dell,i5,32,512,SSD,660.3,16.3,Dedicated,macOS,Feb,6115.57,399,1
+M0220,HP,Ryzen 3,32,512,HDD,822.51,16.5,Dedicated,macOS,Dec,5383.34,332,1
+M0221,Dell,Ryzen 5,16,128,HDD,889.01,18.3,Dedicated,macOS,Jan,5477.54,322,1
+M0222,Lenovo,i5,8,1024,SSD,381.58,16.6,Integrated,Windows,Feb,1836.37,243,1
+M0223,Asus,Ryzen 7,4,1024,SSD,1082.57,16.8,Integrated,macOS,Jul,6588.37,347,1
+M0224,Dell,Ryzen 5,8,512,HDD,1068.34,15.2,Dedicated,Linux,Oct,3873.04,269,1
+M0225,Dell,i7,16,128,HDD,333.87,19.3,Dedicated,macOS,Jun,4933.69,343,1
+M0226,HP,i3,32,1024,SSD,1017.19,15,Dedicated,macOS,Apr,4053.65,351,1
+M0227,HP,Ryzen 7,8,256,HDD,1011.04,14.7,Dedicated,macOS,Jan,5291.74,304,1
+M0228,Lenovo,i7,4,512,SSD,800.09,18.3,Dedicated,macOS,Jan,6146.19,318,1
+M0229,Asus,i5,16,1024,SSD,540.57,13.4,Integrated,macOS,May,2982.29,280,1
+M0230,HP,Ryzen 3,8,256,SSD,1003.05,12.8,Integrated,Windows,Jan,5505.5,307,1
+M0231,Dell,Ryzen 5,4,1024,HDD,751.75,15.8,Integrated,Windows,Dec,4101.99,247,1
+M0232,Asus,i3,16,256,HDD,909.78,15.6,Dedicated,macOS,Jul,7642.92,382,1
+M0233,Asus,Ryzen 5,4,512,SSD,1243.84,15.3,Dedicated,Windows,Nov,2770.75,222,1
+M0234,Dell,i5,16,1024,HDD,850.37,17.1,Integrated,Linux,Jan,2994.97,245,1
+M0235,HP,Ryzen 5,32,1024,HDD,616.62,14.2,Integrated,macOS,Jan,4280.86,322,1
+M0236,Dell,i3,8,128,HDD,732.85,15.7,Dedicated,Linux,Feb,3148.71,225,1
+M0237,Asus,i5,4,512,HDD,642.11,15.1,Integrated,Linux,Nov,4551.24,310,1
+M0238,Acer,Ryzen 5,16,256,HDD,886.7,14.3,Dedicated,macOS,Dec,3944.23,275,1
+M0239,Acer,Ryzen 3,4,1024,HDD,638.79,15.5,Dedicated,Linux,Oct,5176.82,286,1
+M0240,Lenovo,Ryzen 7,4,1024,HDD,705.43,16.9,Integrated,Linux,Mar,7016.14,342,1
+M0241,Dell,i5,8,256,SSD,543.11,18.8,Integrated,Linux,Nov,5142.56,325,1
+M0242,Dell,Ryzen 7,32,512,HDD,773.58,16.5,Integrated,macOS,Jan,5324.71,369,1
+M0243,Lenovo,i5,4,128,HDD,835.35,11.8,Dedicated,macOS,Sep,2885.35,217,1
+M0244,Lenovo,Ryzen 3,16,128,HDD,263.04,15.5,Dedicated,Linux,Oct,4731.88,319,1
+M0245,Lenovo,Ryzen 7,16,1024,HDD,851.91,15.7,Integrated,macOS,Aug,4156.49,295,1
+M0246,Asus,i7,32,256,HDD,790.86,17,Dedicated,macOS,May,6363.28,374,1
+M0247,Dell,i3,16,1024,HDD,647,15.9,Dedicated,Linux,Nov,3470.87,242,1
+M0248,Asus,i7,32,256,HDD,1205.73,17.5,Dedicated,macOS,Feb,3278.69,298,1
+M0249,Lenovo,Ryzen 5,16,128,HDD,991.7,16.2,Integrated,Windows,May,5634.86,318,1
+M0250,Dell,Ryzen 3,8,512,SSD,580.72,17.9,Dedicated,macOS,Jun,8960.21,431,1
+M0251,Asus,i7,4,256,HDD,967.65,14.9,Integrated,Windows,Jan,4648.1,284,1
+M0252,Asus,i5,8,128,HDD,1048.9,15.8,Integrated,Linux,Nov,5336.42,306,1
+M0253,Lenovo,Ryzen 5,4,1024,HDD,826.4,16.8,Dedicated,macOS,Apr,6896.04,339,1
+M0254,Dell,Ryzen 5,4,256,HDD,872.29,14.7,Integrated,Linux,Sep,6019.81,308,1
+M0255,Lenovo,i7,4,512,SSD,867.67,14.4,Dedicated,Linux,Feb,6032.96,298,1
+M0256,Dell,i7,8,1024,SSD,382.84,14.7,Integrated,Linux,May,4809.62,290,1
+M0257,Acer,Ryzen 3,4,1024,SSD,762.63,14.5,Integrated,Linux,Jan,4848.53,299,1
+M0258,HP,i3,8,128,SSD,752.22,16.4,Dedicated,Linux,Apr,3489.7,283,1
+M0259,HP,i7,32,256,SSD,1086.03,12.8,Integrated,macOS,Apr,5972.75,396,1
+M0260,HP,i7,16,1024,SSD,866.75,13.3,Integrated,Windows,Jun,5927.11,345,1
+M0261,Lenovo,Ryzen 7,16,512,SSD,740.48,18.4,Integrated,macOS,Oct,6434.33,388,1
+M0262,Acer,i5,4,256,SSD,781.98,14.5,Dedicated,macOS,Sep,4023.79,256,1
+M0263,Dell,Ryzen 7,8,512,SSD,1004.68,15.9,Dedicated,macOS,Mar,6660.27,319,1
+M0264,Asus,Ryzen 7,16,1024,SSD,763.08,13.4,Integrated,macOS,Sep,7266.67,423,1
+M0265,Dell,Ryzen 5,8,512,SSD,660.36,15.7,Integrated,Windows,Jun,2572.08,240,1
+M0266,Asus,i3,8,128,SSD,744.86,14.5,Integrated,macOS,Jul,4406.25,252,1
+M0267,Dell,i5,4,512,SSD,988.14,13.3,Dedicated,Linux,Dec,7350.05,389,1
+M0268,Acer,Ryzen 3,16,256,SSD,899.23,17.6,Dedicated,macOS,Oct,3700.89,260,1
+M0269,Asus,Ryzen 3,4,512,SSD,808.85,17.4,Integrated,macOS,Feb,6057.53,313,1
+M0270,Lenovo,i7,4,512,SSD,838.31,15.4,Dedicated,Windows,Nov,5017.15,312,1
+M0271,Dell,i7,16,128,HDD,688.05,17.1,Dedicated,Windows,Oct,5661.76,365,1
+M0272,Dell,Ryzen 3,16,512,SSD,761.21,18.5,Dedicated,Linux,Jun,5078.11,299,1
+M0273,Asus,i7,32,512,HDD,667.34,16.7,Dedicated,macOS,Jun,6492.34,424,1
+M0274,Lenovo,i3,32,1024,SSD,741.04,16.3,Integrated,macOS,Feb,2956.97,305,1
+M0275,Lenovo,Ryzen 7,8,1024,SSD,1069.24,15.9,Dedicated,macOS,Feb,3173.35,223,1
+M0276,Acer,i7,16,256,HDD,584.43,16.6,Dedicated,Linux,Feb,7929.03,403,1
+M0277,Lenovo,Ryzen 5,32,1024,SSD,662.26,15.1,Integrated,Windows,Oct,9200.73,507,1
+M0278,Lenovo,i7,8,1024,HDD,549.14,15.2,Integrated,Linux,Dec,4989.16,273,1
+M0279,Lenovo,i5,8,1024,HDD,505.82,16.3,Dedicated,macOS,Jan,8430.53,436,1
+M0280,HP,i3,8,1024,HDD,762.65,14.9,Dedicated,Windows,May,3456.45,271,1
+M0281,Acer,i5,32,128,SSD,676.48,15.1,Integrated,Windows,Aug,3936.83,328,1
+M0282,Dell,i5,16,1024,SSD,1152.34,15.6,Integrated,Linux,Feb,7914.98,399,1
+M0283,Asus,Ryzen 5,4,128,SSD,743.43,17.3,Integrated,Windows,May,6608.21,380,1
+M0284,Dell,i3,8,128,HDD,1057.88,13.9,Dedicated,Windows,Dec,8212.85,433,1
+M0285,Acer,i3,32,1024,HDD,993.6,16.7,Dedicated,macOS,Aug,5937.11,359,1
+M0286,Asus,i3,32,512,SSD,758.21,16.8,Integrated,macOS,Oct,2974.91,300,1
+M0287,Acer,i3,4,128,SSD,1222.03,16.8,Dedicated,Windows,May,5447.15,334,1
+M0288,Lenovo,i3,4,512,SSD,853.71,14.4,Integrated,Windows,Feb,7404.01,347,1
+M0289,Asus,Ryzen 5,32,512,SSD,1102.6,13.1,Dedicated,Linux,Mar,4734.53,338,1
+M0290,Lenovo,i7,16,1024,SSD,1079.32,16.4,Integrated,Linux,Jun,4427.13,313,1
+M0291,Dell,i5,4,256,HDD,882.93,15.9,Integrated,Windows,Nov,5967.71,279,1
+M0292,Dell,i3,32,1024,HDD,950.23,17.1,Dedicated,macOS,Nov,3880.99,327,1
+M0293,Asus,i7,4,256,HDD,924.81,14.5,Dedicated,Windows,May,5591,285,1
+M0294,Asus,i7,16,256,SSD,571.15,16.7,Dedicated,Windows,Nov,5127,328,1
+M0295,Acer,i5,8,1024,HDD,811.46,17.2,Dedicated,macOS,Apr,4019.17,293,1
+M0296,Acer,Ryzen 5,4,1024,HDD,1014.85,15.5,Dedicated,macOS,Apr,6961.47,298,1
+M0297,Lenovo,Ryzen 3,16,256,HDD,1105.24,16.2,Dedicated,Linux,May,6291.98,364,1
+M0298,Asus,Ryzen 3,32,1024,HDD,655.87,16.2,Integrated,Linux,Feb,4292.66,370,1
+M0299,Dell,i7,4,256,HDD,905.77,14.4,Dedicated,Linux,Sep,4970.08,278,2
+M0300,Acer,Ryzen 7,4,512,SSD,830.17,16.4,Integrated,Linux,Feb,4457.45,286,2
+M0301,Acer,Ryzen 7,32,1024,HDD,776.43,18,Integrated,macOS,Oct,3722.7,336,2
+M0302,Dell,i5,8,512,SSD,871.2,15.6,Dedicated,Windows,Feb,1603.46,164,2
+M0303,Acer,Ryzen 3,32,128,SSD,843.6,13.4,Integrated,Linux,Oct,4032.34,333,2
+M0304,Lenovo,i7,4,512,SSD,908.28,14.6,Integrated,Linux,Sep,3751.95,272,2
+M0305,Asus,Ryzen 5,32,512,SSD,1088.34,12.9,Dedicated,macOS,Mar,5229.78,361,2
+M0306,Dell,Ryzen 3,16,256,SSD,956.83,17.5,Dedicated,macOS,Oct,5881.4,341,2
+M0307,Asus,i7,32,512,HDD,862.12,16.7,Dedicated,Windows,Jul,3395.63,278,2
+M0308,Acer,i7,4,1024,HDD,1172.93,14.8,Integrated,Windows,Apr,5746.99,334,2
+M0309,Acer,i3,32,256,SSD,1021.99,13.5,Dedicated,macOS,Jun,3087.51,286,2
+M0310,Dell,Ryzen 5,8,128,SSD,781.52,14.4,Dedicated,Linux,Apr,4749.41,274,2
+M0311,Lenovo,i3,32,1024,SSD,556.58,14.6,Dedicated,Linux,Oct,3795.16,310,2
+M0312,HP,i5,8,128,HDD,602.43,15.8,Dedicated,Linux,Jul,6492.35,356,2
+M0313,Dell,i3,16,512,SSD,986.65,15.7,Integrated,Windows,Jan,5233.55,288,2
+M0314,HP,i3,8,1024,HDD,673.94,17.6,Dedicated,Linux,Mar,4779.66,296,2
+M0315,HP,Ryzen 3,32,1024,SSD,598.39,14.6,Integrated,Linux,Mar,3749.5,306,2
+M0316,Lenovo,Ryzen 7,4,128,HDD,648.38,13.3,Dedicated,macOS,Jan,4342.32,302,2
+M0317,HP,i7,8,1024,SSD,662.52,13.9,Integrated,Linux,Jun,8658.12,374,2
+M0318,HP,Ryzen 5,16,1024,HDD,970.13,15.6,Integrated,macOS,Nov,3997.83,301,2
+M0319,Lenovo,i3,8,1024,SSD,768.65,14.5,Integrated,Linux,Sep,5958.81,357,2
+M0320,HP,Ryzen 5,8,512,HDD,525.53,15.2,Dedicated,Windows,Aug,4774.71,261,2
+M0321,HP,Ryzen 7,8,128,HDD,806.21,14.9,Integrated,Linux,Nov,5901.65,292,2
+M0322,HP,Ryzen 7,16,1024,HDD,844.45,17.1,Dedicated,Linux,Jul,6673.95,401,2
+M0323,Dell,i3,32,256,HDD,704.13,14.7,Dedicated,macOS,Oct,4292.04,310,2
+M0324,Dell,i5,8,256,HDD,1031.18,15,Dedicated,macOS,Aug,6419.55,399,2
+M0325,Dell,i3,8,256,HDD,715.81,16.7,Dedicated,macOS,Jun,10513.28,430,2
+M0326,Lenovo,Ryzen 3,4,256,HDD,1021.67,14.8,Dedicated,Linux,Sep,6135.08,325,2
+M0327,Acer,i7,16,512,SSD,919.36,16.2,Integrated,Linux,Mar,8227.16,409,2
+M0328,HP,i5,8,1024,SSD,985.32,16.1,Dedicated,Windows,Oct,5962.09,320,2
+M0329,HP,i3,16,128,SSD,580.29,15.8,Integrated,Linux,Oct,3136.08,273,2
+M0330,Lenovo,Ryzen 5,8,1024,SSD,819.66,13.9,Integrated,Windows,Sep,5551.39,326,2
+M0331,HP,i5,32,512,SSD,789.43,17.4,Integrated,macOS,Apr,4339.23,325,2
+M0332,Dell,i5,32,256,HDD,515.6,18.9,Integrated,macOS,Jul,3808.12,297,2
+M0333,Acer,i3,8,512,HDD,1021.01,15.6,Integrated,macOS,Sep,4854.83,312,2
+M0334,Asus,i5,32,1024,HDD,636.52,14,Integrated,Windows,Feb,4690.5,354,2
+M0335,HP,Ryzen 5,8,128,HDD,678.09,15.6,Integrated,Linux,Feb,2880.15,241,2
+M0336,Dell,Ryzen 7,32,512,HDD,597.34,17.1,Dedicated,macOS,Sep,10416.92,526,2
+M0337,Asus,i5,4,128,SSD,940.24,14.7,Integrated,Linux,Dec,6615.74,353,2
+M0338,Acer,Ryzen 7,4,512,SSD,494.81,15.4,Dedicated,Linux,Mar,5488.78,297,2
+M0339,Asus,Ryzen 5,4,128,SSD,923.57,16.1,Integrated,macOS,Sep,5179.76,306,2
+M0340,Dell,i3,16,128,SSD,1008.9,17.4,Integrated,Windows,May,7404.7,372,2
+M0341,Asus,i7,16,256,HDD,907.44,16.8,Integrated,Linux,Jun,9151.14,454,2
+M0342,Lenovo,i5,4,128,HDD,942.53,16.8,Integrated,macOS,Feb,6370.17,326,2
+M0343,Asus,i7,16,256,HDD,951.91,15,Dedicated,Linux,Aug,5242.39,332,2
+M0344,HP,Ryzen 5,32,1024,SSD,610.12,16.2,Dedicated,Linux,Nov,7945.29,431,2
+M0345,HP,i5,8,1024,HDD,1086.95,14.5,Dedicated,Linux,Sep,5284.72,316,2
+M0346,Lenovo,Ryzen 7,8,256,SSD,707.98,16.9,Integrated,Linux,Feb,5870.63,308,2
+M0347,Dell,Ryzen 3,8,256,HDD,786.72,17.3,Integrated,Linux,Jun,7002.02,361,2
+M0348,HP,i7,4,512,HDD,733.47,16.4,Integrated,Windows,Jun,4227.04,289,2
+M0349,Acer,i5,16,512,SSD,898.31,15,Dedicated,Windows,Aug,848.33,198,2
+M0350,HP,i7,32,512,HDD,692.39,15.3,Integrated,macOS,Oct,4129.84,327,2
+M0351,HP,i5,32,1024,HDD,813.38,18.3,Dedicated,Windows,Dec,6546,430,2
+M0352,Dell,i3,4,512,SSD,552.93,15.1,Dedicated,Windows,May,6405.1,359,2
+M0353,Asus,Ryzen 7,32,128,HDD,1032.93,17.2,Integrated,Windows,Sep,7685.34,441,2
+M0354,HP,i7,32,128,SSD,934.15,16.1,Integrated,Linux,Jan,4206.34,334,2
+M0355,Lenovo,Ryzen 3,32,512,HDD,741.55,15.1,Dedicated,Linux,Sep,8161.85,459,2
+M0356,Asus,Ryzen 3,32,128,HDD,706.17,13.6,Dedicated,macOS,Oct,5370.14,394,2
+M0357,Acer,Ryzen 5,16,1024,HDD,928.93,15.9,Dedicated,macOS,Jul,6208.83,341,2
+M0358,Dell,i5,32,128,HDD,658.54,15.7,Integrated,macOS,Apr,6807.23,425,2
+M0359,Acer,i7,8,1024,HDD,825.07,18.3,Integrated,Linux,Mar,2236.67,223,2
+M0360,Asus,Ryzen 5,4,256,HDD,1032.28,14.3,Integrated,Windows,Oct,2990.21,219,2
+M0361,Asus,i7,16,256,HDD,637.75,19,Integrated,Windows,Nov,2923.82,254,2
+M0362,Asus,i5,32,256,HDD,873.72,16.2,Integrated,Linux,Jun,7144.43,415,2
+M0363,Acer,Ryzen 3,16,256,SSD,863.15,16.2,Integrated,macOS,Dec,4389.09,279,2
+M0364,Asus,i3,32,128,SSD,780.53,14.7,Dedicated,macOS,Jan,9055.16,487,2
+M0365,Acer,Ryzen 3,8,512,HDD,699.24,16.1,Dedicated,macOS,Mar,5006.75,300,2
+M0366,Asus,Ryzen 5,4,128,HDD,1042.96,16.3,Dedicated,Linux,Feb,2057.25,200,2
+M0367,Lenovo,Ryzen 7,32,1024,SSD,680.49,17,Integrated,macOS,Nov,3655.16,337,2
+M0368,Asus,i3,32,128,HDD,437.59,14.1,Dedicated,macOS,Sep,5234.75,364,2
+M0369,Acer,Ryzen 5,32,128,HDD,928.11,17.7,Integrated,Linux,Mar,6030.38,407,2
+M0370,HP,i5,32,1024,SSD,559.74,16.1,Integrated,Windows,Feb,3030.32,283,2
+M0371,Asus,i3,4,256,HDD,938.38,16.5,Dedicated,Linux,Apr,6136.96,301,2
+M0372,HP,Ryzen 5,4,256,HDD,1066.98,15.3,Integrated,Linux,Feb,6671.09,330,2
+M0373,Lenovo,i5,8,256,SSD,925.95,14.2,Dedicated,Linux,Jan,3718.1,202,2
+M0374,Dell,Ryzen 3,4,512,HDD,1014.28,15.7,Dedicated,Linux,Jun,8938.31,423,2
+M0375,Lenovo,Ryzen 7,32,1024,HDD,1204.01,15.9,Integrated,Windows,Oct,3934.68,287,2
+M0376,Asus,i5,8,1024,SSD,993.35,13.5,Dedicated,macOS,Aug,3000.24,223,2
+M0377,HP,i7,8,128,HDD,866.11,16.8,Dedicated,Linux,Oct,1941.55,221,2
+M0378,HP,i5,8,512,SSD,1126.79,17.1,Dedicated,Windows,Oct,7441.28,369,2
+M0379,Acer,i5,32,256,HDD,1150.96,14.5,Dedicated,macOS,Feb,5045.77,333,2
+M0380,HP,Ryzen 7,16,512,HDD,1153.75,14.1,Integrated,macOS,Sep,4041.43,239,1
+M0381,Acer,i7,32,1024,SSD,701.57,15.1,Dedicated,macOS,Mar,2051.72,287,1
+M0382,Dell,Ryzen 5,4,1024,SSD,529.2,15.6,Dedicated,Linux,Aug,4221.5,288,1
+M0383,Asus,Ryzen 5,4,128,HDD,689.36,15.2,Dedicated,Linux,Dec,9762.89,478,1
+M0384,Acer,i5,32,128,SSD,940.73,15.5,Integrated,macOS,Aug,711.02,204,1
+M0385,Dell,i7,32,1024,SSD,831.83,15.9,Dedicated,macOS,Mar,3736.68,280,1
+M0386,HP,i7,8,256,HDD,758.7,13.5,Integrated,macOS,Mar,8585.57,428,1
+M0387,HP,Ryzen 7,32,256,HDD,912.1,13.7,Dedicated,macOS,Dec,7497.95,416,1
+M0388,Dell,Ryzen 3,8,512,HDD,505.84,11.5,Dedicated,macOS,Jun,3858.75,284,1
+M0389,HP,Ryzen 5,4,1024,SSD,828.23,17,Dedicated,macOS,Jan,5407.19,336,1
+M0390,Dell,Ryzen 7,8,1024,SSD,1023.69,15.6,Integrated,Windows,Apr,5925.87,331,1
+M0391,Acer,i3,32,256,SSD,909.86,17.2,Integrated,macOS,Jan,5267.68,357,1
+M0392,Acer,Ryzen 5,4,256,SSD,938.36,13.9,Integrated,Linux,Mar,8568.9,400,1
+M0393,Dell,Ryzen 7,16,1024,HDD,1119.47,15.6,Integrated,Linux,Sep,5679.51,297,1
+M0394,Acer,Ryzen 5,8,128,SSD,786.77,15.9,Integrated,Linux,May,7271.03,390,1
+M0395,Acer,Ryzen 3,4,1024,HDD,669.38,14.8,Integrated,macOS,Dec,5363.2,328,1
+M0396,Acer,i3,8,1024,SSD,1037.9,13.3,Dedicated,Linux,May,935.22,183,1
+M0397,Lenovo,Ryzen 3,4,256,HDD,1034.22,18.2,Integrated,Windows,Nov,2615.17,185,1
+M0398,Asus,i3,4,256,HDD,911.66,17.7,Dedicated,macOS,Apr,3030.24,228,1
+M0399,HP,i5,8,128,HDD,767.93,15,Integrated,Linux,Mar,4501.43,314,1
+M0400,Lenovo,Ryzen 7,16,128,SSD,800.28,16.4,Integrated,Windows,May,9156.83,429,1
+M0401,Acer,i3,4,512,HDD,544.65,14.9,Integrated,Windows,Nov,5724.82,342,1
+M0402,Dell,Ryzen 3,4,1024,HDD,1022.59,14.1,Dedicated,Linux,Apr,4788.42,282,1
+M0403,Acer,Ryzen 5,4,256,SSD,1015.53,18.3,Integrated,Windows,Aug,7477.12,376,1
+M0404,Asus,i3,16,128,HDD,537.66,13.1,Integrated,Linux,Apr,2096.23,225,1
+M0405,Acer,Ryzen 7,16,512,SSD,973.53,15.2,Dedicated,Windows,Nov,4020.61,284,1
+M0406,Dell,i3,32,512,SSD,880.82,15.7,Dedicated,macOS,Dec,3725.34,316,1
+M0407,Asus,i7,8,256,HDD,595.61,18.1,Dedicated,macOS,Aug,5796.08,306,1
+M0408,Acer,Ryzen 5,16,256,HDD,558.8,16.9,Dedicated,macOS,Jun,6791.67,380,1
+M0409,Asus,Ryzen 7,8,512,SSD,874.7,13.1,Integrated,macOS,Dec,5942.97,273,1
+M0410,HP,Ryzen 7,32,128,HDD,720.46,15.6,Dedicated,macOS,Nov,5974.63,366,1
+M0411,HP,i5,8,512,SSD,1163.99,15.6,Integrated,Linux,May,4277.78,281,1
+M0412,Acer,Ryzen 3,16,1024,SSD,990.52,15.3,Integrated,macOS,Apr,5641.52,353,1
+M0413,Asus,i5,8,1024,SSD,894.74,16.5,Dedicated,macOS,Apr,3320.32,257,1
+M0414,Dell,Ryzen 7,16,256,HDD,904.62,13.5,Integrated,macOS,Dec,6348.28,326,1
+M0415,Acer,Ryzen 5,8,128,SSD,1066.17,15,Dedicated,macOS,Apr,3998.79,285,1
+M0416,HP,i3,16,128,HDD,969.3,16.3,Integrated,Windows,Nov,2756.98,222,1
+M0417,HP,i3,16,1024,HDD,899.95,16.6,Dedicated,macOS,Sep,5075.64,328,1
+M0418,Acer,Ryzen 5,8,512,HDD,603.95,15.8,Dedicated,macOS,Apr,1173.77,167,1
+M0419,Asus,Ryzen 7,32,256,HDD,1412.39,15.2,Dedicated,Linux,Dec,7948.74,408,1
+M0420,HP,i3,4,512,SSD,579.36,15.4,Dedicated,Windows,Sep,6594.2,325,1
+M0421,Asus,i3,32,512,HDD,737.49,16.7,Dedicated,Linux,Oct,5673.94,372,1
+M0422,HP,i3,8,512,SSD,469.05,15.7,Dedicated,macOS,Jun,1752.63,205,1
+M0423,HP,Ryzen 3,32,128,SSD,907.76,14,Integrated,Linux,Oct,3599.62,314,1
+M0424,Lenovo,Ryzen 3,16,1024,HDD,830.22,13.7,Integrated,Linux,Jul,5081.12,317,1
+M0425,HP,i7,4,128,SSD,953.06,13.4,Integrated,macOS,Dec,4473.79,242,1
+M0426,Dell,i5,8,1024,SSD,452.19,17.8,Dedicated,Windows,Oct,1622.87,211,1
+M0427,Acer,Ryzen 5,8,256,HDD,1022.58,16.8,Integrated,Windows,Mar,2367.14,181,1
+M0428,Acer,Ryzen 5,8,256,SSD,638.51,15.4,Dedicated,Linux,Aug,4433.81,268,1
+M0429,Asus,Ryzen 5,4,512,SSD,770.2,14.9,Integrated,macOS,Mar,2433.42,208,1
+M0430,HP,i7,16,1024,SSD,986.31,14.7,Integrated,Linux,Jan,7742.77,385,1
+M0431,Dell,Ryzen 3,8,1024,SSD,852.25,17.2,Dedicated,Linux,Oct,5989.08,295,1
+M0432,Asus,Ryzen 7,32,1024,HDD,866.39,18.5,Integrated,Linux,Dec,3393.07,325,1
+M0433,Lenovo,Ryzen 7,8,512,SSD,959.84,14.7,Integrated,macOS,May,7338.31,399,1
+M0434,Asus,i7,8,512,SSD,885.76,17.3,Integrated,macOS,Feb,6935.41,401,1
+M0435,Asus,Ryzen 7,8,256,SSD,731.78,15.6,Dedicated,Windows,Oct,5577.92,341,1
+M0436,HP,Ryzen 5,8,128,SSD,766.71,15.3,Integrated,macOS,Jun,4920.83,290,1
+M0437,Lenovo,i5,16,1024,HDD,842.38,17.9,Dedicated,Linux,Oct,4403.05,288,1
+M0438,Asus,i3,32,1024,SSD,620.89,15.6,Integrated,Linux,Sep,3920.12,309,1
+M0439,Dell,Ryzen 3,16,128,HDD,999.2,16,Integrated,Windows,Jan,2326.42,271,1
+M0440,Dell,Ryzen 3,32,1024,SSD,857.73,16,Integrated,macOS,Apr,8056.66,436,1
+M0441,Acer,i7,8,512,HDD,814.96,13.2,Integrated,Linux,Jan,3958.97,293,1
+M0442,Lenovo,Ryzen 3,4,512,HDD,1038.5,16,Dedicated,Windows,Jan,5056.4,312,1
+M0443,Lenovo,Ryzen 5,16,1024,HDD,775.98,14.8,Integrated,Windows,Aug,3179.5,265,1
+M0444,Acer,Ryzen 7,4,512,HDD,763.52,13.5,Dedicated,Linux,Nov,4481.1,248,1
+M0445,Asus,Ryzen 5,16,512,HDD,703.07,14.8,Dedicated,Linux,Feb,10701.55,487,1
+M0446,Lenovo,i7,8,1024,SSD,868.61,14.8,Integrated,macOS,Jan,3548,258,1
+M0447,Dell,Ryzen 5,16,256,SSD,861.69,17.1,Integrated,Windows,Nov,7897.19,427,1
+M0448,Dell,Ryzen 7,8,128,SSD,666.74,14,Dedicated,Linux,Aug,4944.39,301,1
+M0449,HP,i5,16,512,HDD,764.46,14.4,Dedicated,Windows,Apr,6359.88,333,1
+M0450,Lenovo,i7,8,256,SSD,668.08,16,Integrated,macOS,Mar,7489.16,397,1
+M0451,Asus,i5,8,512,HDD,659.03,13.6,Integrated,Linux,Dec,5544.53,314,1
+M0452,Acer,i3,32,512,HDD,454.02,14.6,Integrated,macOS,Apr,4296.59,282,1
+M0453,Acer,i5,8,128,SSD,753.82,13.1,Integrated,Windows,Nov,4627.82,296,1
+M0454,Asus,i3,32,512,SSD,459.56,17,Integrated,macOS,May,4695.14,355,1
+M0455,HP,i3,8,128,HDD,707.44,15.1,Dedicated,macOS,Jan,8728.74,396,1
+M0456,Acer,i5,4,128,HDD,677.46,15.6,Integrated,Windows,Nov,2031.75,201,1
+M0457,Lenovo,i7,8,128,SSD,1010.38,17,Integrated,macOS,Jan,1458.55,202,1
+M0458,HP,Ryzen 7,4,256,SSD,597.01,14.5,Dedicated,Windows,Mar,1591.89,200,1
+M0459,Lenovo,Ryzen 5,4,1024,SSD,647.76,15.1,Integrated,Linux,Jun,3212.14,210,1
+M0460,Dell,Ryzen 5,8,256,SSD,723.7,14,Integrated,Windows,Jan,6400.17,368,1
+M0461,HP,Ryzen 7,4,1024,HDD,683.97,14,Dedicated,Windows,Nov,6522.84,374,1
+M0462,Acer,i3,32,1024,SSD,1073.85,14.2,Integrated,Linux,Dec,3784.99,295,1
+M0463,HP,i3,16,128,SSD,572.29,14.9,Dedicated,Windows,Feb,4943.02,280,1
+M0464,HP,i7,8,512,SSD,724.12,15,Integrated,Linux,Dec,2767.4,249,1
+M0465,HP,Ryzen 3,4,128,HDD,866.41,16,Integrated,Linux,Jul,2952.9,215,1
+M0466,HP,i5,8,512,HDD,976.24,14.3,Integrated,Windows,Jan,6159.73,341,1
+M0467,Lenovo,i3,32,1024,HDD,723.95,16.1,Dedicated,macOS,Jul,7095.37,456,1
+M0468,Dell,Ryzen 5,8,128,HDD,416.38,16.3,Dedicated,macOS,Apr,4046.36,248,1
+M0469,Asus,i7,8,512,SSD,769.98,14.9,Dedicated,Linux,Oct,8270.03,382,1
+M0470,HP,i5,4,256,HDD,1070.41,14.4,Dedicated,macOS,Jun,6931.21,340,1
+M0471,Acer,i7,32,512,SSD,856.44,15.7,Integrated,macOS,Aug,8183.45,468,1
+M0472,HP,i5,16,128,SSD,847.28,15.3,Dedicated,Windows,Sep,4398.12,368,1
+M0473,Acer,i5,16,256,SSD,587.4,15.9,Dedicated,Linux,Jun,8041.37,416,1
+M0474,Lenovo,Ryzen 7,4,512,SSD,566.87,18,Dedicated,Linux,Dec,9359.09,394,1
+M0475,Acer,i3,8,512,HDD,803.61,15.7,Integrated,Windows,Nov,4174.96,268,1
+M0476,Asus,i7,4,512,HDD,514.72,14.6,Integrated,macOS,Sep,4691.66,272,1
+M0477,Dell,i7,4,512,HDD,956.27,14.3,Dedicated,Linux,Apr,3104.56,246,1
+M0478,Acer,Ryzen 7,4,512,SSD,630.67,14.3,Dedicated,macOS,Jun,2711.57,234,1
+M0479,Acer,Ryzen 5,8,256,SSD,795.07,13.4,Integrated,Linux,Aug,2734.9,211,1
+M0480,Dell,Ryzen 5,32,1024,SSD,422.85,17,Dedicated,Linux,Sep,3377.07,290,1
+M0481,Asus,i3,4,256,SSD,721.24,12.3,Dedicated,Linux,Mar,5549.48,302,1
+M0482,HP,i3,8,256,SSD,562.83,16.3,Dedicated,Linux,Feb,3461.6,253,1
+M0483,Acer,Ryzen 3,32,256,HDD,335.61,14.3,Dedicated,macOS,Jun,5488.33,371,1
+M0484,Dell,Ryzen 7,4,1024,SSD,908.37,14.8,Integrated,macOS,Apr,5529.69,306,1
+M0485,Lenovo,Ryzen 5,16,128,HDD,1128.23,14.3,Integrated,macOS,Jan,4059.75,305,1
+M0486,Dell,i5,32,1024,SSD,1025.89,17.8,Integrated,macOS,Aug,4874.73,331,1
+M0487,Lenovo,i7,4,256,SSD,936.34,15.6,Dedicated,Windows,Sep,3944.18,246,1
+M0488,Asus,i3,32,512,HDD,717.18,16.8,Dedicated,Linux,Sep,4378.52,304,1
+M0489,HP,i7,32,512,HDD,961.18,17.6,Integrated,Linux,Feb,3382.27,291,1
+M0490,Dell,i7,32,256,SSD,1044.77,15.8,Integrated,Linux,Sep,5168.21,353,1
+M0491,Acer,Ryzen 3,32,512,SSD,827.36,13.8,Integrated,Windows,Jul,3798.91,276,1
+M0492,Asus,Ryzen 5,32,256,SSD,563.13,15.3,Dedicated,macOS,May,2667.87,275,1
+M0493,Dell,i3,32,512,SSD,700.12,14.5,Integrated,Linux,Jul,6186.86,408,1
+M0494,Acer,i7,4,1024,HDD,1140.54,14.8,Dedicated,macOS,Sep,6254.58,335,1
+M0495,Dell,i3,16,128,SSD,785.05,15.5,Dedicated,macOS,Aug,7223.4,390,1
+M0496,Lenovo,i5,8,128,HDD,135.05,15.4,Integrated,Windows,Jun,2951.21,264,1
+M0497,Dell,Ryzen 3,32,1024,SSD,506.22,16.2,Integrated,Windows,Apr,4038.15,313,1
+M0498,Dell,i5,8,1024,HDD,715.11,16.4,Dedicated,macOS,Jan,5460.99,301,1
+M0499,Dell,i3,4,256,HDD,1007.17,15.4,Integrated,Linux,Jun,3995.92,283,1
+M0500,Asus,i3,32,256,SSD,745.38,16.2,Integrated,Linux,Mar,6141.82,399,1
+M0501,Dell,Ryzen 5,16,256,HDD,1010.89,14.8,Dedicated,Windows,Jun,5995.87,326,1
+M0502,Acer,i7,8,512,SSD,694.77,17.6,Dedicated,Windows,Jun,5958.59,293,1
+M0503,Lenovo,i7,32,256,HDD,407.14,14.8,Dedicated,Windows,Apr,7919.33,428,1
+M0504,Lenovo,i5,4,1024,SSD,701.69,17.4,Dedicated,Windows,Feb,6288.15,343,1
+M0505,Dell,Ryzen 3,16,128,HDD,868.99,13.4,Dedicated,Windows,Sep,5307.78,310,1
+M0506,Asus,Ryzen 7,8,512,SSD,852.39,15,Integrated,Windows,Feb,4612.93,293,1
+M0507,Asus,i7,8,256,SSD,548.98,15.1,Dedicated,Windows,Mar,4752.27,325,1
+M0508,Acer,Ryzen 5,32,512,HDD,729.76,16,Dedicated,Linux,Oct,2871.58,283,1
+M0509,Dell,i5,16,512,HDD,1336.93,16.9,Dedicated,Windows,Jan,1468.58,203,1
+M0510,Lenovo,i5,16,256,HDD,553.35,13.7,Integrated,Windows,Jul,5927.51,362,1
+M0511,Asus,Ryzen 7,16,512,HDD,932.14,13.9,Dedicated,Linux,Jan,7447.27,365,1
+M0512,Dell,Ryzen 5,16,128,SSD,380.66,13.5,Dedicated,Linux,Nov,4339.77,289,1
+M0513,Asus,Ryzen 3,4,1024,HDD,972.76,17.6,Dedicated,macOS,Sep,8174.19,398,1
+M0514,Asus,Ryzen 5,16,1024,SSD,621.53,16,Integrated,Windows,Nov,4646.98,309,1
+M0515,Lenovo,Ryzen 3,8,128,HDD,880.42,14,Dedicated,Windows,Nov,1092.46,183,1
+M0516,HP,Ryzen 5,8,512,SSD,541.69,14.9,Dedicated,Windows,Jan,6836.5,360,1
+M0517,Acer,Ryzen 5,4,256,SSD,858.17,17.4,Dedicated,Windows,May,4041.42,281,1
+M0518,Acer,i3,8,512,SSD,618.27,15.2,Integrated,macOS,Jul,7017.56,372,1
+M0519,Lenovo,i5,8,128,SSD,656.99,15.1,Integrated,Linux,Mar,2444.95,235,1
+M0520,Asus,Ryzen 5,16,512,HDD,888.4,14.4,Integrated,Linux,Sep,5824.09,363,1
+M0521,Dell,Ryzen 7,8,1024,HDD,713.92,14.1,Integrated,Windows,Aug,3399.08,285,1
+M0522,Asus,Ryzen 5,4,512,SSD,876.08,17.4,Dedicated,Windows,Mar,5402.81,347,1
+M0523,Lenovo,i7,16,128,HDD,761.83,18.1,Dedicated,Windows,May,6533.21,351,1
+M0524,Acer,i5,32,1024,HDD,813.5,14.1,Integrated,macOS,Jul,6068.8,429,1
+M0525,Asus,i7,16,512,SSD,889.02,17.7,Integrated,macOS,Dec,5138.74,296,1
+M0526,Acer,i5,4,512,HDD,730,14.9,Dedicated,Linux,Apr,2243.08,249,1
+M0527,Dell,i7,16,1024,HDD,600.79,16.4,Dedicated,Windows,May,6460.69,351,1
+M0528,Acer,Ryzen 5,16,256,HDD,693.54,17.7,Integrated,Windows,Mar,7062.86,378,1
+M0529,Acer,Ryzen 5,4,1024,SSD,1039.03,15.4,Integrated,Windows,Sep,2914.01,225,1
+M0530,HP,i3,16,256,HDD,823.23,15.1,Integrated,Windows,Oct,3207.94,244,1
+M0531,HP,Ryzen 7,4,128,SSD,631.02,16.8,Integrated,macOS,Sep,7147.11,361,1
+M0532,HP,i7,4,128,HDD,880.31,13.9,Dedicated,Linux,Jul,4583.12,261,1
+M0533,Acer,Ryzen 3,32,1024,HDD,893.66,17.3,Integrated,Linux,Oct,3259.77,269,1
+M0534,Lenovo,i3,8,1024,HDD,904,15.8,Integrated,macOS,Feb,5545.11,313,1
+M0535,Acer,i7,8,128,SSD,604.43,14.7,Dedicated,Windows,Jul,3722.95,297,1
+M0536,Lenovo,i7,16,256,SSD,663.52,14.7,Dedicated,Linux,Jul,5322.08,323,1
+M0537,Lenovo,i3,16,128,HDD,664.63,13.5,Dedicated,Linux,Nov,4173.59,312,1
+M0538,HP,Ryzen 5,32,1024,SSD,727.87,14.8,Dedicated,macOS,May,4344.98,312,1
+M0539,Asus,i7,32,128,HDD,907.78,15.2,Dedicated,Windows,Sep,7220.79,386,1
+M0540,Dell,Ryzen 5,32,1024,SSD,859.24,14,Integrated,Linux,Dec,62.95,207,1
+M0541,HP,i3,4,1024,SSD,875.04,15.5,Integrated,Windows,Nov,6109.5,358,1
+M0542,HP,Ryzen 5,32,128,HDD,1070.8,16.3,Integrated,Linux,Mar,6890.9,403,1
+M0543,Asus,i5,32,256,HDD,937.78,15.3,Dedicated,macOS,Apr,3756.01,324,1
+M0544,Dell,Ryzen 3,16,512,HDD,771.64,16.6,Integrated,Windows,Jan,6875.53,402,1
+M0545,Acer,i7,32,128,HDD,563.22,14.4,Dedicated,macOS,Jun,3081.95,294,1
+M0546,Acer,Ryzen 7,4,512,SSD,657.09,17.1,Integrated,Linux,Apr,3680.03,252,1
+M0547,HP,Ryzen 3,4,128,SSD,747.66,15.8,Integrated,macOS,Jan,3449.67,255,1
+M0548,Dell,Ryzen 5,16,512,SSD,965.83,17.9,Dedicated,macOS,Feb,6902.58,382,1
+M0549,HP,i7,32,256,HDD,794.53,19.2,Dedicated,macOS,Mar,1510.1,215,1
+M0550,Lenovo,Ryzen 5,32,256,HDD,668.76,14.9,Integrated,Linux,Sep,8280.29,454,1
+M0551,HP,i5,4,128,SSD,653.42,15,Integrated,Windows,Aug,4390.12,276,1
+M0552,HP,i3,32,1024,HDD,786.08,15.2,Integrated,macOS,Jul,6229.82,369,1
+M0553,Acer,i7,32,512,SSD,978,16.5,Integrated,Windows,Nov,6057.42,374,1
+M0554,Acer,i5,32,1024,SSD,1118.2,17.6,Integrated,Linux,Dec,5302.46,327,1
+M0555,Acer,i5,8,1024,SSD,758.85,14.6,Dedicated,Windows,Apr,3798.63,234,1
+M0556,Lenovo,i7,16,1024,SSD,791.05,16.2,Dedicated,macOS,Jan,7484.75,392,1
+M0557,Acer,Ryzen 5,8,256,SSD,557.21,15.4,Dedicated,macOS,Aug,3970.3,292,1
+M0558,Dell,Ryzen 7,16,128,HDD,1187.84,16.5,Dedicated,macOS,Apr,3537.5,257,1
+M0559,Asus,i5,4,128,HDD,519.8,17.9,Integrated,macOS,Mar,6755.42,331,1
+M0560,Dell,Ryzen 3,32,256,HDD,1034.33,15.2,Integrated,macOS,Sep,5291.5,335,1
+M0561,Dell,i5,16,256,SSD,726.93,13.1,Dedicated,macOS,Oct,7715.64,409,1
+M0562,Acer,Ryzen 7,8,128,SSD,680.13,16.7,Integrated,Linux,Apr,4874.67,331,1
+M0563,Asus,Ryzen 5,32,1024,SSD,578,14.4,Dedicated,Linux,Apr,3698.25,328,1
+M0564,Asus,Ryzen 5,4,512,SSD,1282.01,15.4,Integrated,Linux,Sep,5549.49,324,1
+M0565,Asus,Ryzen 3,16,512,HDD,844.3,16.8,Integrated,Windows,Dec,4104.77,267,1
+M0566,Lenovo,i5,16,512,HDD,804.26,16,Integrated,Windows,Nov,3756.15,277,1
+M0567,Acer,Ryzen 5,16,1024,SSD,977.35,15.4,Dedicated,Linux,Dec,6663.78,382,1
+M0568,Asus,Ryzen 7,32,128,SSD,669.83,14.7,Dedicated,Windows,Feb,8663.11,432,1
+M0569,Lenovo,i7,8,256,SSD,800.37,11.3,Dedicated,Windows,Dec,4507.08,272,1
+M0570,HP,i3,8,128,HDD,811.27,16.6,Dedicated,macOS,May,3050.52,260,1
+M0571,HP,i3,16,1024,HDD,697.57,15.2,Integrated,macOS,Apr,4693.09,314,1
+M0572,Lenovo,i3,4,256,HDD,1039.93,17.9,Integrated,Windows,Sep,6029.6,298,1
+M0573,Lenovo,i5,4,1024,SSD,756.27,16.2,Integrated,Windows,Dec,5514.96,275,1
+M0574,Acer,Ryzen 3,8,512,SSD,489.37,14.8,Integrated,Linux,May,7388.46,404,1
+M0575,Acer,Ryzen 5,4,512,HDD,739.7,17.2,Dedicated,Windows,Sep,6330.18,292,1
+M0576,HP,i7,8,1024,SSD,849.84,17.3,Integrated,macOS,Nov,2793.18,245,1
+M0577,Asus,Ryzen 7,16,256,HDD,621.3,15.3,Integrated,Windows,Sep,4013.36,279,1
+M0578,HP,i7,8,256,SSD,637.08,17.4,Integrated,Linux,Feb,2238.33,241,1
+M0579,Asus,Ryzen 7,8,128,HDD,690.75,14.8,Dedicated,macOS,Sep,7289.36,350,1
+M0580,Asus,i5,16,512,SSD,1044.25,15.8,Dedicated,macOS,Mar,1016.23,243,1
+M0581,Acer,i3,4,128,HDD,702.57,16.5,Dedicated,macOS,Apr,2433.34,224,1
+M0582,Dell,i5,8,128,HDD,1085.82,16.8,Integrated,macOS,Jan,3976.4,274,1
+M0583,Dell,Ryzen 3,8,1024,HDD,677.01,16.5,Dedicated,Windows,Jan,6127.83,320,1
+M0584,Lenovo,Ryzen 3,16,1024,HDD,865,15.1,Integrated,Linux,Jan,3956.69,280,1
+M0585,Acer,Ryzen 7,4,128,HDD,710.75,17.2,Integrated,Windows,Sep,4269.54,269,1
+M0586,Asus,Ryzen 5,8,512,HDD,950.82,15.4,Integrated,Windows,Nov,4308.94,312,1
+M0587,Dell,Ryzen 5,16,1024,SSD,576.35,14.7,Dedicated,macOS,Aug,5345.57,338,1
+M0588,Asus,Ryzen 7,8,128,SSD,948.57,14.8,Dedicated,Linux,May,2558.98,234,1
+M0589,Dell,Ryzen 3,32,128,SSD,822.77,18.5,Integrated,macOS,May,3105.65,301,1
+M0590,Dell,Ryzen 3,16,128,HDD,672,14.5,Integrated,Windows,Sep,8361.85,431,1
+M0591,Dell,Ryzen 3,4,128,HDD,766.76,17.5,Dedicated,Windows,Mar,5804.8,289,1
+M0592,Acer,i5,4,128,SSD,1106.77,13.9,Dedicated,macOS,Mar,6521.56,372,1
+M0593,HP,Ryzen 3,4,128,HDD,827.57,16.3,Dedicated,Windows,Jul,5116.06,277,1
+M0594,Asus,i7,4,1024,HDD,659.45,16,Integrated,Windows,Sep,4719.44,285,1
+M0595,Acer,i3,8,512,HDD,559.06,18,Integrated,macOS,Jun,5914.26,362,1
+M0596,Acer,Ryzen 3,8,128,HDD,901.08,14.6,Integrated,Windows,Feb,6455.23,380,1
+M0597,Acer,Ryzen 7,4,256,HDD,839.17,14.2,Dedicated,Linux,Jan,6692.15,358,1
+M0598,Acer,i3,4,1024,SSD,939,15.4,Dedicated,macOS,Feb,4746.88,271,1
+M0599,Acer,i5,4,1024,SSD,507.56,18.1,Dedicated,Linux,Jan,6910.75,357,1
+M0600,Lenovo,Ryzen 7,8,128,SSD,565.55,14.3,Integrated,Windows,Oct,67.57,160,1
+M0601,Asus,i3,4,1024,SSD,1029.38,11.7,Integrated,Windows,Oct,6784.57,344,1
+M0602,Acer,Ryzen 7,4,128,SSD,866.27,15.7,Dedicated,macOS,Sep,4146.19,240,1
+M0603,Asus,i5,32,512,HDD,906.68,17,Integrated,Windows,Oct,6106.76,404,1
+M0604,Lenovo,i7,32,512,HDD,607.46,14.1,Dedicated,macOS,Dec,3701.34,315,1
+M0605,Lenovo,i5,4,1024,HDD,603.8,16.9,Integrated,macOS,Aug,2346.61,201,1
+M0606,Asus,i5,16,1024,HDD,998.25,14,Dedicated,macOS,Jul,5679.41,322,1
+M0607,Dell,Ryzen 7,4,256,SSD,1007.68,15.4,Integrated,macOS,Mar,1996.94,203,1
+M0608,HP,Ryzen 5,32,1024,SSD,582.34,16.7,Integrated,macOS,Aug,4200.65,300,1
+M0609,Dell,Ryzen 3,16,256,SSD,544.13,13.8,Dedicated,Linux,Feb,3375.14,289,1
+M0610,Dell,Ryzen 3,16,512,HDD,778.28,15.9,Dedicated,macOS,Feb,4649.93,310,1
+M0611,Dell,i7,4,512,SSD,640.13,17.4,Dedicated,Linux,Nov,6594.42,374,1
+M0612,Acer,i7,32,128,HDD,635.96,16.3,Dedicated,Windows,Oct,4020.31,323,1
+M0613,Lenovo,Ryzen 3,32,512,SSD,549.72,14.5,Dedicated,macOS,Mar,5629.16,350,1
+M0614,Dell,Ryzen 5,16,256,SSD,706.31,17.9,Integrated,Windows,Jul,6478.69,338,1
+M0615,Lenovo,Ryzen 3,4,1024,HDD,569.06,16.6,Dedicated,macOS,Jan,3785.49,252,1
+M0616,Asus,Ryzen 5,8,128,HDD,580.92,12.8,Dedicated,Linux,Aug,3814.49,263,1
+M0617,HP,i7,8,256,SSD,859.68,16.9,Dedicated,Linux,Dec,7738.66,369,1
+M0618,Asus,i3,32,1024,SSD,788.96,14.7,Integrated,Linux,Jul,4841.22,346,1
+M0619,Asus,Ryzen 7,8,128,HDD,896.98,15.9,Dedicated,Windows,Apr,6018.28,316,1
+M0620,Acer,i7,32,512,SSD,470.19,17.1,Dedicated,macOS,May,6003.12,389,1
+M0621,HP,i7,32,256,SSD,801.98,14.8,Dedicated,Windows,Oct,2604.02,265,1
+M0622,Asus,i5,32,1024,HDD,1215.13,13.1,Integrated,Linux,Jan,3478.25,306,1
+M0623,Asus,i5,8,128,SSD,725.55,17.9,Integrated,Windows,Apr,5750.69,317,1
+M0624,HP,i5,32,128,HDD,964.95,17.3,Dedicated,Linux,Jan,865.37,245,1
+M0625,HP,Ryzen 7,16,512,SSD,963.2,15.5,Integrated,Linux,Jan,4577.4,313,1
+M0626,Asus,i5,4,1024,HDD,973.04,16.9,Dedicated,Linux,Oct,3269.43,240,1
+M0627,HP,Ryzen 5,4,512,SSD,833.33,15,Integrated,macOS,Jan,7221.01,353,1
+M0628,Asus,Ryzen 3,32,512,HDD,913.22,15.7,Dedicated,macOS,Jul,5692.23,336,1
+M0629,Asus,i3,4,1024,SSD,939.8,15.4,Integrated,Linux,Jul,7382.49,388,1
+M0630,Acer,i7,8,1024,HDD,927.09,15.1,Dedicated,Windows,Apr,4921.75,281,1
+M0631,Dell,Ryzen 5,8,1024,SSD,576.52,16.1,Dedicated,Windows,Dec,4772.22,299,1
+M0632,Asus,i3,4,256,SSD,458.52,13.8,Integrated,macOS,Feb,4390.14,287,1
+M0633,Lenovo,Ryzen 5,8,1024,SSD,489.28,15.2,Dedicated,Linux,Dec,3993.86,272,1
+M0634,Dell,Ryzen 5,4,128,SSD,745.97,16.1,Dedicated,Windows,Mar,10369.31,481,1
+M0635,Dell,i7,4,512,SSD,918.79,18.4,Dedicated,Linux,Aug,6614.34,313,1
+M0636,Dell,Ryzen 3,4,256,SSD,579.12,13.8,Dedicated,Windows,Aug,2867.62,267,1
+M0637,Acer,i5,32,1024,SSD,984.79,16.4,Integrated,macOS,Nov,10278.62,516,1
+M0638,Asus,Ryzen 7,4,256,SSD,699.54,16.5,Dedicated,Linux,Nov,4190.04,264,1
+M0639,Acer,Ryzen 3,32,1024,SSD,701.45,12.8,Integrated,Linux,Jun,5642.3,364,1
+M0640,Asus,Ryzen 7,4,256,HDD,632.78,16.2,Integrated,Windows,Oct,6879.19,307,1
+M0641,Acer,i7,4,512,HDD,423.04,16.9,Integrated,Windows,Sep,1924.09,190,1
+M0642,Acer,i7,4,512,SSD,845.86,16.5,Integrated,Windows,Nov,3345.35,234,1
+M0643,Lenovo,i7,8,128,HDD,1142.53,15.5,Dedicated,Linux,Dec,8296.33,395,1
+M0644,Acer,i3,32,128,SSD,787.47,16.1,Dedicated,macOS,Sep,4550.34,359,1
+M0645,HP,Ryzen 7,32,1024,SSD,429.87,15.9,Integrated,macOS,Apr,6997.34,456,1
+M0646,Lenovo,Ryzen 3,4,512,HDD,956.07,13.1,Dedicated,Windows,Dec,4093.06,267,1
+M0647,Acer,Ryzen 3,4,256,SSD,475.04,15.9,Integrated,macOS,Jan,4809.88,296,1
+M0648,Dell,Ryzen 5,8,256,SSD,558.19,15,Dedicated,Windows,Jan,8570.51,402,1
+M0649,HP,Ryzen 5,8,256,HDD,752.33,14.5,Dedicated,macOS,Dec,5875.02,292,1
+M0650,HP,Ryzen 5,8,128,HDD,824.57,19.3,Dedicated,Linux,Oct,4310.3,266,1
+M0651,HP,i7,32,256,SSD,598.27,17.5,Integrated,Windows,May,3633.27,306,1
+M0652,Lenovo,Ryzen 3,32,128,HDD,744.54,13.9,Integrated,macOS,Feb,3816.25,333,1
+M0653,Acer,Ryzen 7,32,128,HDD,943.03,16.1,Dedicated,Linux,Jun,7483.12,430,1
+M0654,Acer,i7,4,1024,SSD,970.44,17.8,Integrated,macOS,Jul,6531,338,1
+M0655,Dell,i3,32,256,HDD,1050.29,13.4,Integrated,Linux,Jan,2702.65,262,1
+M0656,Dell,Ryzen 5,16,256,HDD,1181.88,15.7,Dedicated,Linux,Jun,5174.36,273,1
+M0657,HP,i7,16,512,SSD,961.98,15.8,Integrated,macOS,Aug,4866.37,270,1
+M0658,Dell,i7,8,1024,HDD,756.65,13.7,Dedicated,macOS,Dec,5632.19,286,1
+M0659,Lenovo,i3,32,512,HDD,971.86,16.2,Dedicated,Linux,May,3792.86,302,1
+M0660,Acer,i5,16,1024,SSD,893.34,17.3,Dedicated,Linux,Dec,7195.61,399,1
+M0661,HP,Ryzen 3,8,256,SSD,901.27,17.9,Integrated,Linux,Jul,4997.32,317,1
+M0662,Dell,Ryzen 7,32,128,SSD,835.44,15.2,Dedicated,Windows,Oct,5746.87,385,1
+M0663,Lenovo,i5,4,128,HDD,617.59,19.4,Dedicated,Linux,Jun,3430.62,238,1
+M0664,Lenovo,Ryzen 5,16,128,SSD,594.38,12.5,Integrated,Windows,Apr,3531.37,298,1
+M0665,Dell,i7,4,128,SSD,780.58,16.1,Integrated,Linux,Jul,10315.02,433,1
+M0666,Acer,i3,32,128,HDD,829.78,13.5,Integrated,Windows,Oct,8600.16,472,1
+M0667,Dell,i3,16,512,SSD,664.11,15.7,Integrated,Linux,Sep,4860.64,281,1
+M0668,HP,Ryzen 3,32,1024,SSD,884.67,14.8,Dedicated,Linux,Oct,8066.01,414,1
+M0669,Dell,i5,4,256,SSD,1216.15,16.4,Integrated,Linux,Oct,7425.48,389,1
+M0670,Lenovo,Ryzen 3,16,512,SSD,451.13,15.4,Integrated,macOS,Jul,3749.58,281,1
+M0671,Dell,i7,4,1024,HDD,916.45,14.4,Integrated,macOS,Dec,3550.13,232,1
+M0672,Acer,Ryzen 3,32,128,SSD,786.81,14.5,Integrated,Linux,May,6337.35,410,1
+M0673,Asus,Ryzen 7,32,1024,SSD,890.13,18.5,Dedicated,Windows,Jul,5520.12,386,1
+M0674,Dell,i3,4,1024,HDD,713.86,16.3,Integrated,Windows,Mar,4195.99,260,1
+M0675,Acer,i3,16,128,SSD,770.79,13,Dedicated,Linux,Feb,6442.45,365,1
+M0676,Acer,Ryzen 5,4,128,HDD,825.9,16.4,Integrated,macOS,Nov,2115.03,207,1
+M0677,Lenovo,Ryzen 5,32,128,HDD,739.67,15.3,Dedicated,Windows,May,5230,299,1
+M0678,Acer,i7,4,256,HDD,495.89,15.6,Dedicated,macOS,Apr,2522.15,195,1
+M0679,Acer,Ryzen 7,32,128,SSD,753.22,16.8,Integrated,Windows,May,2588.02,295,1
+M0680,Acer,i5,4,256,HDD,516.71,17.4,Dedicated,Linux,Aug,3586.47,238,1
+M0681,Acer,Ryzen 3,16,128,HDD,930.64,14.3,Integrated,macOS,Dec,5726.57,345,1
+M0682,HP,i7,16,256,HDD,426.89,15.6,Dedicated,Windows,Apr,3649.53,288,1
+M0683,HP,Ryzen 5,4,1024,SSD,1005.73,14.8,Dedicated,Linux,Sep,2563.78,239,1
+M0684,Lenovo,Ryzen 3,4,512,SSD,885.91,16.5,Dedicated,Linux,Jul,5954.5,291,1
+M0685,Dell,Ryzen 5,16,1024,SSD,886.68,15.3,Integrated,Linux,Oct,7985.49,411,1
+M0686,Acer,Ryzen 3,32,1024,SSD,367.14,15.6,Dedicated,macOS,Dec,6277.7,393,1
+M0687,Dell,i5,16,128,SSD,734.28,15.2,Integrated,macOS,Jul,8603.6,409,1
+M0688,Dell,i7,32,256,SSD,1030.71,15.4,Dedicated,Linux,Aug,7818.36,412,1
+M0689,Lenovo,Ryzen 3,4,512,SSD,696.28,18.2,Dedicated,macOS,Dec,4025.14,269,1
+M0690,Acer,Ryzen 7,4,128,HDD,584.39,19.2,Dedicated,Windows,Jun,6264.32,346,1
+M0691,Acer,i3,32,128,HDD,672.67,16.2,Dedicated,Linux,Aug,4816.74,346,1
+M0692,Asus,Ryzen 7,4,128,HDD,786.34,15.5,Dedicated,Linux,Mar,7124.2,357,1
+M0693,Dell,Ryzen 7,32,1024,HDD,629.73,13.2,Dedicated,macOS,Oct,4816.38,335,1
+M0694,Dell,i3,8,256,SSD,1046.76,14.5,Integrated,Linux,Oct,3422.61,239,1
+M0695,HP,Ryzen 7,16,256,HDD,787.07,15.4,Integrated,Windows,Jan,7746.81,382,1
+M0696,Asus,Ryzen 3,8,512,HDD,688.89,14.5,Integrated,macOS,Jun,5635.59,310,1
+M0697,HP,Ryzen 3,32,256,HDD,539.73,14.7,Dedicated,macOS,Jan,3672.94,325,1
+M0698,HP,Ryzen 3,16,256,HDD,896.89,18,Integrated,Linux,Sep,4002.55,298,1
+M0699,HP,i3,32,128,SSD,892.33,15.6,Dedicated,Linux,Feb,3660.16,280,1
+M0700,Lenovo,Ryzen 7,16,128,SSD,641.56,15.8,Integrated,Linux,Nov,2996.51,241,1
+M0701,Lenovo,i3,16,1024,SSD,352.73,14.6,Integrated,macOS,Feb,4044.97,282,1
+M0702,HP,Ryzen 3,16,128,HDD,882.15,17.4,Dedicated,Linux,Jul,5746.04,335,1
+M0703,Asus,Ryzen 7,16,128,SSD,762.64,15.3,Dedicated,Windows,Feb,5128.12,286,1
+M0704,Dell,Ryzen 7,32,128,HDD,867.21,14.8,Integrated,Linux,Oct,4123.57,302,1
+M0705,Asus,Ryzen 5,16,128,SSD,1191.43,13.2,Integrated,Linux,Aug,7991.01,370,1
+M0706,Acer,Ryzen 5,16,1024,SSD,794.63,15.5,Integrated,macOS,Jun,978.73,203,1
+M0707,Lenovo,i5,8,128,SSD,697.23,14.8,Integrated,Linux,Jul,5612.27,319,1
+M0708,Dell,i7,4,512,SSD,570.54,18.1,Dedicated,macOS,Jul,4714.48,278,1
+M0709,Dell,Ryzen 5,4,512,SSD,737.52,18.4,Integrated,Linux,Jun,3059.64,213,1
+M0710,Acer,i3,8,512,HDD,832.12,13.7,Dedicated,Windows,Oct,5728.91,312,1
+M0711,Acer,Ryzen 5,8,512,SSD,810.66,13.9,Dedicated,Windows,Nov,4560.5,275,1
+M0712,HP,i5,32,128,HDD,1144.69,15.2,Integrated,macOS,Sep,7494.15,448,1
+M0713,Lenovo,Ryzen 7,32,512,HDD,899.82,14.4,Dedicated,macOS,Sep,6736.13,418,1
+M0714,Lenovo,i5,32,128,HDD,773.04,15.9,Integrated,Linux,Jul,8812.26,449,1
+M0715,Asus,Ryzen 7,8,1024,HDD,658.69,15.1,Dedicated,Linux,Sep,4033.36,277,1
+M0716,HP,Ryzen 7,8,512,HDD,853.33,16,Dedicated,Windows,Oct,7793.11,401,1
+M0717,HP,i7,16,256,SSD,618.6,17.1,Integrated,Linux,Mar,2668.29,235,1
+M0718,HP,Ryzen 5,32,512,SSD,835.97,14,Dedicated,Windows,Mar,4778.73,312,1
+M0719,HP,i3,32,512,SSD,897.48,17.1,Dedicated,macOS,Jan,4069.51,282,1
+M0720,Lenovo,i3,32,128,SSD,756.71,14.5,Integrated,Linux,May,6204.89,410,1
+M0721,Lenovo,Ryzen 3,4,512,HDD,673.94,18.8,Dedicated,macOS,Apr,6156.55,325,1
+M0722,HP,Ryzen 7,16,256,SSD,362.94,18,Dedicated,Linux,Feb,3198.76,276,1
+M0723,Asus,i3,32,128,SSD,1028.77,15.4,Integrated,Windows,Sep,6316.38,371,1
+M0724,Dell,i7,32,128,HDD,880.66,14.2,Integrated,macOS,Mar,4239.02,298,1
+M0725,Dell,Ryzen 7,32,1024,HDD,885.52,13.9,Dedicated,macOS,Aug,3366.41,275,1
+M0726,Asus,i7,4,1024,SSD,487.73,16.9,Dedicated,Linux,Jun,4976.44,270,1
+M0727,HP,i3,4,512,SSD,1075.97,15.6,Dedicated,macOS,May,2046.31,214,1
+M0728,Lenovo,i3,8,1024,HDD,706.96,17,Integrated,Windows,Jan,6862.61,387,1
+M0729,Dell,Ryzen 3,16,1024,SSD,742.24,18.9,Dedicated,macOS,Apr,4888.76,314,1
+M0730,Acer,i3,8,1024,SSD,586.14,14.4,Dedicated,macOS,Mar,4932.51,271,1
+M0731,Acer,Ryzen 7,16,128,SSD,442.61,13.8,Dedicated,Linux,Jan,4825.67,327,1
+M0732,Asus,Ryzen 7,4,128,SSD,1031.47,15.9,Dedicated,macOS,Dec,8293.7,411,1
+M0733,HP,Ryzen 7,32,128,HDD,1057.32,17.3,Dedicated,Linux,May,8037.76,453,1
+M0734,Dell,Ryzen 3,8,1024,HDD,766.89,14.2,Dedicated,Linux,Jun,7701.52,381,1
+M0735,HP,Ryzen 3,32,128,HDD,664.12,15.7,Integrated,macOS,Feb,4829.92,340,1
+M0736,Dell,i3,8,1024,SSD,724.59,17.7,Integrated,Windows,Mar,2768.75,233,1
+M0737,Asus,i5,4,128,SSD,730.08,13.2,Dedicated,Linux,Nov,4968.04,316,1
+M0738,Asus,i5,4,128,SSD,560.03,16,Dedicated,macOS,Jun,5628.8,330,1
+M0739,Acer,Ryzen 3,4,256,SSD,741.55,14.8,Integrated,Linux,Apr,6625.22,334,1
+M0740,HP,i3,8,512,SSD,830.62,15.8,Integrated,Windows,Sep,5622.37,309,1
+M0741,Acer,i5,16,1024,HDD,1003.63,16.7,Integrated,Windows,May,2947.01,240,1
+M0742,HP,i3,8,256,SSD,802.85,15.9,Dedicated,Linux,Apr,3929.17,246,1
+M0743,Acer,i3,16,128,SSD,484.73,14.1,Dedicated,Windows,Feb,3747.73,311,1
+M0744,Lenovo,i3,8,1024,HDD,870.71,14.8,Dedicated,macOS,Jun,6078.11,315,1
+M0745,Lenovo,Ryzen 5,8,128,SSD,748.81,17.7,Dedicated,macOS,Oct,6127.19,344,1
+M0746,Lenovo,Ryzen 7,4,512,HDD,1074.08,16.1,Integrated,Linux,Feb,6389.26,314,1
+M0747,Lenovo,i3,32,256,HDD,1085.89,16.9,Integrated,Windows,Dec,5602.07,350,1
+M0748,Dell,Ryzen 5,32,512,HDD,1092.89,16,Integrated,macOS,Jul,881.6,216,1
+M0749,Lenovo,Ryzen 3,16,256,HDD,687.68,16.8,Integrated,macOS,Mar,1548.28,225,1
+M0750,Asus,i5,32,128,HDD,1197.97,15,Dedicated,macOS,Sep,4719.62,326,1
+M0751,Asus,Ryzen 7,8,512,SSD,870.19,14.4,Dedicated,Linux,Nov,5196.16,281,1
+M0752,Dell,i5,8,512,HDD,1125.28,16.7,Integrated,Linux,May,7507.33,369,1
+M0753,Lenovo,Ryzen 7,4,128,HDD,699.48,17.3,Integrated,macOS,Aug,5155.59,283,1
+M0754,Lenovo,i5,4,512,SSD,740.28,14.2,Integrated,macOS,Nov,3048.1,265,1
+M0755,Lenovo,Ryzen 7,32,1024,SSD,854.81,14.7,Integrated,Windows,Jun,6324.33,381,1
+M0756,Acer,i5,16,256,HDD,830.38,15.4,Integrated,Windows,Dec,4965.5,300,1
+M0757,HP,i5,32,256,SSD,1050.96,18,Dedicated,Windows,Oct,4195.89,358,1
+M0758,Acer,i5,32,256,SSD,753.57,16.4,Dedicated,Linux,Aug,1770.8,266,1
+M0759,HP,i5,32,1024,HDD,1032.92,13.6,Integrated,macOS,Nov,5170.37,330,1
+M0760,Lenovo,Ryzen 3,32,256,HDD,946.45,15.5,Integrated,Linux,Dec,5457.64,342,1
+M0761,Lenovo,i3,8,128,SSD,757.32,15.2,Integrated,macOS,Mar,3007.71,250,1
+M0762,Acer,i7,16,512,HDD,930.94,13.8,Dedicated,Windows,Mar,6488.72,358,1
+M0763,Acer,Ryzen 5,8,1024,HDD,705.35,15.4,Dedicated,Windows,May,6309.59,358,1
+M0764,HP,i7,16,256,SSD,1270.04,15.2,Dedicated,Windows,Nov,5097.83,296,1
+M0765,Asus,i7,4,128,HDD,267.13,15.1,Integrated,Windows,Oct,5023.45,317,1
+M0766,HP,Ryzen 7,32,512,HDD,934.59,15,Dedicated,macOS,Mar,6892.08,357,1
+M0767,Acer,i3,8,512,HDD,447.08,17.8,Integrated,Windows,Aug,5735.06,326,1
+M0768,Acer,Ryzen 7,16,1024,HDD,754.87,15.1,Dedicated,macOS,Oct,3595.49,262,1
+M0769,Dell,i3,4,1024,HDD,782.88,15.7,Dedicated,macOS,Dec,4604.7,271,1
+M0770,Acer,i3,4,1024,SSD,1101.53,15.5,Dedicated,Linux,Aug,6113.7,317,1
+M0771,Dell,i5,32,128,SSD,661.57,14.8,Integrated,Windows,Feb,935.36,251,1
+M0772,Asus,Ryzen 3,16,128,HDD,1061.6,15.7,Integrated,Windows,Dec,3136.95,231,1
+M0773,HP,i5,8,1024,SSD,564.24,15.7,Dedicated,Linux,Apr,6364.28,301,1
+M0774,HP,Ryzen 3,32,256,HDD,1069.33,15.7,Integrated,macOS,Oct,7417.76,394,1
+M0775,Dell,Ryzen 7,8,512,HDD,705.13,14.3,Integrated,Windows,Jan,7042.1,383,1
+M0776,HP,Ryzen 3,4,512,HDD,814.69,15.3,Integrated,macOS,Apr,6786.59,312,1
+M0777,Acer,Ryzen 7,8,128,HDD,732.72,16.7,Integrated,Linux,Dec,5259.49,297,1
+M0778,Lenovo,i7,8,512,HDD,1056.47,15.3,Integrated,macOS,Nov,2942.19,249,1
+M0779,Dell,i7,32,256,SSD,1017.55,15.8,Integrated,Windows,Apr,4606.75,330,1
+M0780,HP,Ryzen 3,8,512,SSD,888.7,15.9,Integrated,macOS,Oct,1013.46,201,1
+M0781,Dell,Ryzen 3,32,128,HDD,569.63,16.2,Dedicated,macOS,Sep,7601.31,389,1
+M0782,Dell,Ryzen 7,4,128,SSD,657,16.4,Integrated,Windows,Mar,3365.77,239,1
+M0783,Lenovo,i5,32,256,HDD,594.28,15.3,Integrated,Windows,Feb,3933.31,346,1
+M0784,Acer,Ryzen 7,32,256,SSD,350.37,14.2,Dedicated,macOS,Sep,7117.24,397,1
+M0785,Dell,i5,16,512,HDD,1052.26,13.8,Dedicated,macOS,Sep,1770.75,234,1
+M0786,HP,i7,8,512,SSD,734.44,17.1,Dedicated,Linux,Jan,2621.19,225,1
+M0787,Asus,i3,4,128,HDD,732.3,16.8,Dedicated,Windows,Jun,5535.94,318,1
+M0788,Dell,Ryzen 3,32,256,HDD,1099.22,16.6,Integrated,macOS,Oct,6040.76,398,1
+M0789,Dell,i5,4,256,SSD,704.8,16.8,Dedicated,Windows,Aug,4856.6,298,1
+M0790,Lenovo,Ryzen 7,16,256,SSD,631.91,15.4,Dedicated,Linux,Mar,4921.83,305,1
+M0791,Acer,i7,8,512,HDD,755.05,14.7,Integrated,macOS,Nov,7536.76,388,1
+M0792,Asus,i5,32,256,SSD,573.47,14.1,Integrated,macOS,Sep,6272.64,377,1
+M0793,HP,Ryzen 7,8,128,HDD,868.87,14,Integrated,macOS,Feb,6002.34,334,1
+M0794,Asus,Ryzen 3,16,128,SSD,725.27,17.4,Dedicated,Windows,Jun,6551.29,338,1
+M0795,HP,Ryzen 3,16,512,SSD,698.55,14.9,Integrated,Linux,Jan,4398.82,300,1
+M0796,Acer,Ryzen 5,4,1024,HDD,681.22,17.2,Dedicated,Windows,Jul,9346.33,448,1
+M0797,HP,i3,32,512,SSD,778.76,15.3,Integrated,macOS,Mar,384.94,203,1
+M0798,Lenovo,Ryzen 5,4,1024,SSD,816.7,14.6,Integrated,Linux,Jul,7915.84,401,1
+M0799,Lenovo,i7,16,256,HDD,696,14,Dedicated,macOS,Apr,6804.22,434,1
+M0800,Lenovo,i5,8,512,SSD,728.25,14.7,Integrated,macOS,Sep,5496.58,315,1
+M0801,Lenovo,i7,4,128,HDD,783.7,17.7,Integrated,Windows,May,5160.06,309,1
+M0802,Asus,Ryzen 7,4,256,HDD,763.52,14,Integrated,macOS,Mar,4688.89,292,1
+M0803,Acer,Ryzen 3,8,128,HDD,806.22,18.8,Integrated,Linux,Aug,7206.89,370,1
+M0804,HP,Ryzen 5,4,256,HDD,664.67,14.3,Integrated,macOS,Jun,4920.27,308,1
+M0805,HP,Ryzen 5,8,512,HDD,1000.92,16.7,Dedicated,macOS,Feb,3544.23,247,1
+M0806,Lenovo,Ryzen 5,32,1024,SSD,819.37,15.4,Dedicated,Windows,Mar,6803.97,388,1
+M0807,Lenovo,i7,8,256,HDD,699.23,15.1,Integrated,Linux,Aug,8169.53,366,1
+M0808,Dell,Ryzen 3,32,1024,HDD,868.88,13.7,Dedicated,Windows,Oct,1145.66,224,1
+M0809,Acer,i5,8,256,SSD,785.13,15.5,Dedicated,macOS,Jul,9714.18,459,1
+M0810,Asus,Ryzen 7,16,128,SSD,453.23,13.9,Dedicated,Windows,Oct,2926.54,241,1
+M0811,HP,i5,16,128,SSD,868.19,13.1,Integrated,Windows,Jun,3079.4,261,1
+M0812,Dell,i7,32,256,HDD,596.1,15.8,Integrated,Windows,Jan,2510.22,274,1
+M0813,Dell,Ryzen 7,32,1024,HDD,986.89,14.6,Integrated,Windows,Sep,5001.7,331,1
+M0814,HP,Ryzen 5,16,512,HDD,751.65,18.1,Dedicated,macOS,Mar,2440.56,203,1
+M0815,Asus,i3,32,512,SSD,956.01,17.1,Dedicated,macOS,May,2683.48,302,1
+M0816,Dell,i7,8,128,HDD,673.96,18.1,Integrated,Linux,Jul,3622.9,271,1
+M0817,Dell,i7,8,512,SSD,813.99,14.6,Integrated,Windows,Jul,5276.91,361,1
+M0818,Acer,Ryzen 3,16,128,HDD,1042.05,15.8,Dedicated,Windows,Mar,5469.71,346,1
+M0819,Asus,i5,4,512,SSD,746.2,11.7,Dedicated,Linux,Apr,7482.39,394,1
+M0820,Dell,i7,8,256,HDD,681.84,15.2,Integrated,Windows,Oct,7436.3,340,1
+M0821,Asus,i7,32,128,HDD,931.01,15.7,Dedicated,Linux,Jul,7049.22,371,1
+M0822,HP,Ryzen 5,4,128,HDD,927.13,15.8,Dedicated,macOS,Aug,4476.77,274,1
+M0823,Lenovo,Ryzen 5,4,256,SSD,690.25,15.5,Dedicated,Linux,Feb,1317.64,160,1
+M0824,Dell,Ryzen 7,8,128,SSD,402.91,15.7,Dedicated,Windows,Sep,1273.37,182,1
+M0825,Acer,i3,8,512,HDD,678,11.5,Dedicated,Linux,Jul,7035.46,414,1
+M0826,HP,Ryzen 3,4,512,HDD,935.47,16,Dedicated,macOS,Aug,6687.51,363,1
+M0827,Asus,i3,4,128,HDD,644.99,16.3,Dedicated,Windows,Jun,3766.59,239,1
+M0828,HP,Ryzen 7,16,512,SSD,797.81,17.6,Integrated,macOS,Jun,2118.53,182,1
+M0829,Dell,Ryzen 5,32,1024,HDD,668.5,16.2,Integrated,macOS,Sep,2905.7,267,1
+M0830,Asus,i5,16,128,HDD,413.57,15.4,Dedicated,Linux,Apr,5349.39,323,1
+M0831,Lenovo,Ryzen 5,8,256,HDD,664.9,17.3,Dedicated,macOS,Nov,5353.12,306,1
+M0832,HP,Ryzen 3,16,1024,HDD,934.63,12.1,Dedicated,Windows,Nov,7085.06,350,1
+M0833,Dell,Ryzen 5,16,128,SSD,325.95,14.8,Integrated,macOS,May,4099.29,321,1
+M0834,Acer,Ryzen 3,16,256,SSD,850.43,14.5,Integrated,macOS,Sep,4511.93,286,1
+M0835,Asus,Ryzen 3,16,512,HDD,562.79,15.5,Dedicated,Linux,Jan,7250.64,401,1
+M0836,HP,Ryzen 3,32,256,HDD,921.69,12.3,Integrated,macOS,Apr,749.81,219,1
+M0837,HP,Ryzen 7,32,1024,SSD,942.86,17.6,Dedicated,Linux,Jul,5634.91,382,1
+M0838,Lenovo,Ryzen 3,4,512,SSD,765.61,15.2,Dedicated,Linux,Nov,4331.54,267,1
+M0839,Lenovo,Ryzen 3,8,128,HDD,766.07,16.1,Dedicated,Windows,Sep,6425.52,324,1
+M0840,Acer,i5,16,512,SSD,638.73,15.9,Dedicated,Windows,Nov,6025.21,338,1
+M0841,Acer,i3,4,128,SSD,530.88,17.5,Dedicated,Windows,Dec,3607.38,243,1
+M0842,Dell,i7,4,128,HDD,1139.62,12.8,Dedicated,Windows,Oct,3985.33,296,1
+M0843,Dell,i3,4,256,SSD,626.99,15.8,Dedicated,Linux,Jun,396.05,158,1
+M0844,Acer,Ryzen 3,32,256,SSD,1113.56,17.3,Integrated,macOS,Dec,6499.98,386,1
+M0845,Acer,i5,16,256,HDD,628.1,15.5,Dedicated,Windows,Aug,5479.55,351,1
+M0846,Asus,Ryzen 5,16,1024,HDD,905.04,14.2,Integrated,Windows,Sep,7797.02,397,1
+M0847,Lenovo,i5,8,1024,SSD,572.44,14.7,Dedicated,Windows,Oct,4201.2,303,1
+M0848,Dell,Ryzen 3,16,256,HDD,904.68,15,Dedicated,macOS,Apr,6828.67,361,1
+M0849,Lenovo,i5,16,1024,SSD,734.88,14.5,Integrated,Windows,Jan,2860.15,243,1
+M0850,Lenovo,i5,4,512,HDD,737.5,15.4,Integrated,macOS,Aug,-409.58,111,1
+M0851,Acer,Ryzen 3,8,512,SSD,922,17.9,Dedicated,Linux,Feb,4810.97,328,1
+M0852,Asus,Ryzen 7,16,1024,HDD,706.17,14.7,Integrated,Linux,Nov,3866.64,282,1
+M0853,HP,i5,32,1024,SSD,514.37,14.9,Dedicated,Linux,Jan,2898.36,267,1
+M0854,Asus,i7,16,512,SSD,952.26,16.3,Dedicated,macOS,Jul,6796.21,370,1
+M0855,Asus,i7,4,128,SSD,570.82,15.3,Integrated,Windows,Dec,7416.49,356,1
+M0856,Lenovo,i5,32,512,HDD,903.3,13.6,Integrated,Windows,Oct,5210.84,344,1
+M0857,Asus,Ryzen 7,4,512,HDD,994.6,15.5,Integrated,Windows,Sep,4634.96,283,1
+M0858,Dell,Ryzen 5,16,1024,SSD,724.9,15.5,Integrated,Windows,Nov,5125.42,351,1
+M0859,Lenovo,Ryzen 3,32,512,SSD,1036.47,17.1,Dedicated,Windows,Dec,3694.15,306,1
+M0860,Dell,i7,8,1024,HDD,896.36,14.1,Integrated,macOS,Dec,6125.19,317,1
+M0861,HP,Ryzen 5,8,1024,HDD,660.83,17.1,Integrated,Linux,Sep,1921.26,200,1
+M0862,Lenovo,i5,32,256,HDD,1080.29,15.5,Integrated,Windows,Mar,2853.84,291,1
+M0863,HP,Ryzen 5,32,512,HDD,571.67,13.9,Integrated,Linux,Jun,3417.48,265,1
+M0864,Lenovo,i3,4,128,HDD,724.66,13.6,Integrated,macOS,Jul,6082.71,305,1
+M0865,Acer,i7,32,256,HDD,758.74,18.5,Dedicated,macOS,Oct,4395.02,334,1
+M0866,Asus,i5,4,1024,SSD,921.04,15.4,Dedicated,Windows,Sep,7720.78,337,1
+M0867,Acer,Ryzen 3,16,1024,HDD,1023.09,17,Integrated,macOS,Feb,6606.62,353,1
+M0868,HP,Ryzen 7,4,128,SSD,1010.56,13,Integrated,Linux,Aug,3397.81,230,1
+M0869,Asus,i5,32,1024,HDD,844.75,19.6,Dedicated,Windows,Jul,6266.93,402,1
+M0870,Lenovo,Ryzen 3,32,512,HDD,743.95,16.9,Integrated,Windows,Apr,4183.59,319,1
+M0871,Asus,Ryzen 7,16,256,SSD,434.8,15.2,Dedicated,Linux,Feb,5946.36,375,1
+M0872,Dell,Ryzen 7,32,1024,SSD,537.17,15.1,Dedicated,Windows,Aug,6703.54,405,1
+M0873,Asus,i5,32,1024,HDD,1153.33,16.7,Integrated,Windows,Nov,7229.43,443,1
+M0874,Dell,Ryzen 5,8,128,SSD,432.79,16.6,Dedicated,Linux,May,5404.04,291,1
+M0875,Asus,Ryzen 5,8,512,SSD,643.1,15.9,Integrated,Windows,Jun,8200.25,431,1
+M0876,Dell,Ryzen 7,16,1024,SSD,1028.92,15.6,Integrated,Windows,Nov,5882.63,329,1
+M0877,HP,Ryzen 5,4,128,SSD,841.94,16.4,Dedicated,Linux,Jul,5270.1,328,1
+M0878,Acer,i3,8,1024,HDD,985.61,13,Dedicated,macOS,Oct,4394.97,301,1
+M0879,Lenovo,Ryzen 7,4,128,SSD,908.57,15,Integrated,Linux,Jan,3737.38,194,1
+M0880,Asus,Ryzen 7,32,128,HDD,1093.92,13.1,Dedicated,Windows,Aug,5839.77,376,1
+M0881,Acer,Ryzen 3,8,512,HDD,859.09,16.5,Integrated,Linux,Apr,5201.52,324,1
+M0882,Lenovo,Ryzen 5,16,1024,HDD,932.69,14.6,Dedicated,Windows,Sep,5521.65,355,1
+M0883,Lenovo,Ryzen 7,16,512,HDD,655.15,13.2,Dedicated,Windows,Jan,5961.49,324,1
+M0884,Dell,i3,16,128,SSD,917.27,14.4,Integrated,Linux,Nov,5513.2,340,1
+M0885,HP,Ryzen 3,8,256,SSD,720.77,15.8,Integrated,Windows,Feb,9026.59,426,1
+M0886,HP,i5,4,1024,HDD,709.38,15.3,Integrated,macOS,Jun,3944.07,270,1
+M0887,Acer,Ryzen 7,32,256,HDD,978.94,13.8,Dedicated,Windows,Nov,5864.59,390,1
+M0888,HP,i3,4,1024,HDD,980.32,13,Integrated,Linux,Oct,4544.61,297,1
+M0889,Asus,i7,4,512,HDD,1137.69,15.7,Integrated,macOS,Nov,77.06,124,1
+M0890,HP,i3,32,512,SSD,1124.65,14.7,Dedicated,macOS,Jan,4613.05,335,1
+M0891,Acer,i3,32,512,HDD,983.46,15.2,Dedicated,Windows,Apr,3127.01,288,1
+M0892,HP,Ryzen 3,8,512,SSD,455.91,15.4,Integrated,Linux,Aug,4866.36,298,1
+M0893,Asus,i5,8,512,HDD,1165.54,16.2,Integrated,Windows,Oct,4947.19,288,1
+M0894,Dell,i7,8,256,HDD,983.59,16.9,Integrated,Windows,May,5770.72,323,1
+M0895,Acer,Ryzen 5,8,512,HDD,646.83,15.8,Integrated,Linux,Sep,3939.64,259,1
+M0896,Dell,Ryzen 5,8,128,HDD,945.78,15.1,Dedicated,Linux,Nov,4189.81,290,1
+M0897,Dell,i3,32,128,SSD,592.55,15.6,Dedicated,Windows,Nov,6401.39,419,1
+M0898,Dell,Ryzen 3,4,256,SSD,923.73,15.1,Integrated,macOS,Jun,3381.88,224,1
+M0899,Lenovo,Ryzen 3,8,1024,SSD,536.75,13.1,Integrated,Windows,Jan,1323.09,221,1
+M0900,Lenovo,Ryzen 5,8,128,HDD,638.36,17.2,Integrated,macOS,Jun,5314.06,296,1
+M0901,Dell,i7,4,1024,HDD,941.99,17,Dedicated,Windows,Jun,7141.7,371,1
+M0902,Acer,i5,8,256,SSD,1014.58,18.6,Integrated,Linux,Jun,6378.36,363,1
+M0903,Asus,i7,4,1024,SSD,865.09,19,Integrated,macOS,Aug,5350.97,299,1
+M0904,Asus,Ryzen 7,4,1024,HDD,742.77,13.8,Dedicated,Linux,Jun,7501.29,351,1
+M0905,HP,Ryzen 7,32,1024,HDD,377.03,15.1,Dedicated,Linux,May,7164.03,409,1
+M0906,Acer,i5,16,1024,SSD,758.2,19.4,Integrated,Linux,Nov,4338.17,304,1
+M0907,Lenovo,Ryzen 5,32,256,HDD,906.7,15.5,Integrated,Linux,Feb,5495.04,400,1
+M0908,Dell,i5,16,128,HDD,736.65,16,Dedicated,Linux,Apr,5580.92,300,1
+M0909,HP,Ryzen 3,16,512,SSD,795.48,13.3,Integrated,Windows,Oct,4826.5,312,1
+M0910,Asus,Ryzen 7,16,1024,HDD,762.88,15.8,Integrated,macOS,May,7268.5,383,1
+M0911,Lenovo,i3,8,128,SSD,735.66,18.5,Dedicated,Windows,Oct,4695.72,283,1
+M0912,Lenovo,i3,32,128,HDD,815.18,17.5,Dedicated,Windows,Apr,3999.44,316,1
+M0913,Dell,Ryzen 5,16,256,SSD,745.46,14.7,Dedicated,Windows,Feb,-183.08,150,1
+M0914,Asus,Ryzen 3,4,128,HDD,1088.66,15,Integrated,Linux,Jul,3403.39,263,1
+M0915,Acer,i7,8,256,SSD,358.72,13.9,Dedicated,Windows,Oct,2369.16,256,1
+M0916,Lenovo,Ryzen 3,32,1024,SSD,690.83,14.3,Dedicated,macOS,Oct,4919.21,349,1
+M0917,Dell,i3,16,1024,SSD,625.95,12.7,Integrated,Windows,Feb,2492.62,241,1
+M0918,Acer,i3,4,512,SSD,843.82,15.5,Integrated,Linux,Jan,6217.37,317,1
+M0919,Asus,Ryzen 7,32,512,HDD,815.43,17.9,Dedicated,macOS,May,7216.88,416,1
+M0920,Lenovo,Ryzen 3,32,512,HDD,1124.44,16.1,Dedicated,macOS,Dec,4937.69,376,1
+M0921,Acer,Ryzen 3,8,128,SSD,1190.23,17.6,Integrated,macOS,Jan,3031.96,231,1
+M0922,Acer,i3,32,1024,HDD,645.38,17.2,Integrated,macOS,Jan,5572.8,351,1
+M0923,Acer,i7,8,256,HDD,800.1,14.8,Dedicated,Windows,Jan,8786.95,405,1
+M0924,Lenovo,Ryzen 5,16,512,HDD,839.26,14.5,Dedicated,Linux,Jun,8164.96,425,1
+M0925,Lenovo,Ryzen 5,8,256,HDD,640.44,14.5,Integrated,macOS,Sep,2187.84,204,1
+M0926,HP,Ryzen 3,4,256,HDD,925.68,13,Dedicated,macOS,Oct,2113.64,202,1
+M0927,Asus,Ryzen 5,8,512,SSD,752.1,15.6,Integrated,Linux,Nov,1600.93,208,1
+M0928,Dell,i3,4,1024,SSD,586.47,11.2,Dedicated,Windows,Dec,2726.04,215,1
+M0929,Acer,i3,8,512,SSD,744.09,16.5,Integrated,macOS,Jan,5503.18,280,1
+M0930,HP,Ryzen 3,32,256,SSD,600.47,15.7,Integrated,Windows,May,3886.61,297,1
+M0931,Dell,Ryzen 3,16,512,HDD,1007.33,16.3,Dedicated,Windows,Sep,3322.66,244,1
+M0932,HP,Ryzen 7,4,256,HDD,1180.31,17.2,Dedicated,Windows,Sep,7078.22,342,1
+M0933,Lenovo,Ryzen 3,8,256,SSD,848.96,15.9,Integrated,Windows,Jan,6060.19,331,1
+M0934,Acer,i7,8,512,HDD,822.26,18,Dedicated,macOS,Aug,1590.59,213,1
+M0935,Dell,Ryzen 5,8,128,HDD,830.49,16.5,Dedicated,macOS,Jan,6963.45,333,1
+M0936,Dell,Ryzen 3,32,512,SSD,1036.45,14.5,Dedicated,Windows,Aug,6012.07,387,1
+M0937,Dell,i5,32,128,HDD,1032.14,15.2,Integrated,Windows,Jan,6056.53,367,1
+M0938,Dell,Ryzen 7,4,256,SSD,776.87,12.2,Dedicated,Linux,Dec,3859.05,222,1
+M0939,Dell,i5,4,256,SSD,850.52,14.2,Dedicated,Linux,May,4625.39,280,1
+M0940,HP,i3,32,128,HDD,930.53,15,Integrated,Linux,Aug,1054.56,253,1
+M0941,Acer,Ryzen 5,4,256,HDD,572.46,16.4,Dedicated,macOS,Jun,6733.97,366,1
+M0942,Lenovo,Ryzen 3,16,128,SSD,1042.52,14.5,Dedicated,Linux,Sep,3002.15,249,1
+M0943,Lenovo,i5,16,128,SSD,1146.97,13.7,Integrated,macOS,Jan,3258.74,279,1
+M0944,Lenovo,Ryzen 5,32,256,HDD,1033.01,12.8,Integrated,macOS,Sep,3231.72,294,1
+M0945,Lenovo,i3,4,1024,SSD,550.88,14.7,Dedicated,macOS,Jan,8600.8,424,1
+M0946,HP,i7,8,128,SSD,406,18.5,Dedicated,macOS,Oct,3662.59,234,1
+M0947,Asus,Ryzen 7,16,512,SSD,941.74,16,Integrated,Linux,Oct,6884.52,344,1
+M0948,Acer,Ryzen 5,32,512,HDD,647.96,17,Integrated,Windows,Mar,4952.02,364,1
+M0949,Dell,Ryzen 5,4,256,SSD,857.43,14.2,Dedicated,Windows,Jan,3341.78,271,1
+M0950,Asus,i7,32,1024,HDD,1107.03,13.2,Dedicated,Windows,Mar,2979.2,289,1
+M0951,Lenovo,Ryzen 5,8,256,SSD,668.61,13.8,Dedicated,Linux,Dec,3742.29,254,1
+M0952,Asus,i3,16,1024,HDD,724.49,15.5,Integrated,Windows,Nov,4851.08,296,1
+M0953,Acer,i3,32,128,SSD,855.34,12.6,Dedicated,Linux,Feb,6203.47,376,1
+M0954,Dell,i7,32,128,HDD,540.5,14.1,Integrated,Linux,Feb,4058.02,349,1
+M0955,Dell,Ryzen 7,32,128,HDD,648.43,14.7,Integrated,Linux,Sep,3983.18,313,2
+M0956,Acer,Ryzen 3,8,128,HDD,804.97,13.6,Integrated,Windows,Aug,3237.69,267,2
+M0957,Acer,i5,32,512,SSD,739.91,12.4,Dedicated,Windows,Jan,2611.92,290,2
+M0958,Lenovo,Ryzen 3,8,512,SSD,921.68,16,Dedicated,Windows,Dec,2444.62,255,2
+M0959,Dell,Ryzen 5,8,256,SSD,1353.2,15.7,Dedicated,macOS,Apr,6976.06,352,2
+M0960,Asus,i5,8,1024,HDD,819.83,16.8,Integrated,Linux,Jan,3942.32,266,2
+M0961,HP,i7,16,128,SSD,631.66,13.9,Dedicated,macOS,Jan,4119.45,314,2
+M0962,HP,i7,16,128,HDD,1083.65,16.7,Integrated,Linux,Dec,3666.77,251,2
+M0963,Acer,Ryzen 7,32,1024,SSD,482.24,17.9,Integrated,Windows,Dec,4366.29,326,2
+M0964,Lenovo,i5,32,1024,HDD,522.22,16,Integrated,Linux,Apr,5742.15,342,2
+M0965,HP,i3,16,256,HDD,680.98,14.7,Integrated,Linux,Feb,4026.24,264,2
+M0966,Dell,i5,4,1024,HDD,743.42,15.8,Integrated,macOS,Mar,5361.48,342,2
+M0967,Acer,Ryzen 5,16,128,SSD,676.19,14.6,Integrated,Linux,Nov,7836.42,417,2
+M0968,Asus,i3,8,128,SSD,793.7,14.4,Dedicated,Windows,Sep,3360.67,223,2
+M0969,Acer,i7,16,128,SSD,854.95,16.6,Integrated,Linux,Feb,4121.06,312,2
+M0970,Asus,i5,8,128,HDD,1013.79,15.4,Dedicated,Linux,Apr,6282.12,320,1
+M0971,Acer,Ryzen 3,32,128,HDD,818.24,17.4,Integrated,Linux,Jan,7994.59,450,1
+M0972,Acer,Ryzen 7,4,256,SSD,687.61,14.9,Dedicated,macOS,Feb,2515.38,232,1
+M0973,Acer,Ryzen 3,32,128,SSD,1002.93,15.1,Dedicated,Linux,May,1598.39,275,1
+M0974,Asus,Ryzen 7,8,256,SSD,636.46,14.8,Dedicated,Linux,Oct,4998.79,292,1
+M0975,Asus,Ryzen 5,8,128,HDD,473.48,13.9,Dedicated,macOS,Jan,4792.25,285,1
+M0976,Acer,Ryzen 3,8,512,HDD,1041.19,16.8,Integrated,macOS,Nov,6400.34,283,1
+M0977,HP,i5,4,512,HDD,1028.37,18.9,Integrated,macOS,Jul,6095.12,317,1
+M0978,Lenovo,i5,16,512,HDD,641.54,15,Integrated,macOS,Apr,4932.07,331,1
+M0979,Lenovo,Ryzen 3,32,512,HDD,720.18,14.6,Integrated,Windows,Jun,7098.43,429,1
+M0980,Lenovo,i5,32,256,SSD,616.61,14.5,Dedicated,Windows,Aug,3637.96,335,1
+M0981,Asus,Ryzen 5,16,256,HDD,865.32,14.6,Dedicated,Linux,Jun,5423.16,333,1
+M0982,Asus,i3,32,1024,HDD,1146.41,18.1,Dedicated,Windows,Feb,2568.59,278,1
+M0983,HP,Ryzen 5,4,128,HDD,940.58,14.5,Integrated,Linux,Jan,4915.74,288,1
+M0984,Lenovo,Ryzen 7,32,512,HDD,1007.14,14.7,Dedicated,Windows,Aug,2077.74,270,1
+M0985,Lenovo,Ryzen 5,8,256,HDD,963.95,13.7,Integrated,macOS,Aug,2768.31,211,1
+M0986,Acer,Ryzen 7,16,128,SSD,799.98,16,Dedicated,macOS,Sep,8418.9,390,1
+M0987,Asus,i5,4,128,HDD,1016.67,15.5,Dedicated,Windows,Jun,1350.92,161,1
+M0988,Lenovo,i3,16,256,HDD,949.01,13.9,Dedicated,Windows,Dec,4566.7,304,1
+M0989,HP,i5,4,512,HDD,1087.89,14.3,Dedicated,Linux,Jan,6654.43,309,1
+M0990,HP,i7,8,1024,SSD,708.09,17.9,Dedicated,Linux,Sep,9442.71,422,1
+M0991,Lenovo,i5,16,128,SSD,452.38,15.6,Integrated,Linux,Dec,5354.15,321,1
+M0992,Asus,Ryzen 7,32,1024,SSD,1009.05,15.8,Dedicated,macOS,Mar,5468.44,373,1
+M0993,HP,i5,4,512,HDD,869.95,15.8,Integrated,macOS,Nov,5079.37,306,1
+M0994,Acer,i5,16,512,SSD,740.79,17.7,Integrated,macOS,Jun,7114.47,382,1
+M0995,HP,i3,32,1024,HDD,751.97,14,Integrated,macOS,Oct,5863.41,383,1
+M0996,Dell,i5,16,512,HDD,1310.94,15,Integrated,Linux,Oct,3849.82,280,1
+M0997,Dell,i3,16,128,SSD,671.56,15.3,Integrated,macOS,Nov,7231.02,378,1
+M0998,Asus,Ryzen 3,16,1024,HDD,629.34,13,Integrated,macOS,Dec,4075.62,280,1
+M0999,Lenovo,i7,4,512,HDD,817.06,14.2,Integrated,macOS,Sep,1803.01,226,1
